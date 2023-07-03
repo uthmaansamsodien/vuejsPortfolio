@@ -1,12 +1,17 @@
 <template>
-    <div>
-        <h1>Testimonials</h1>
-    </div>
+    <div class="home">
+       <h1>Testimonials</h1>
+       <PortfolioCard/>
+        </div>
+
 </template>
 
 <script>
-    export default {
-        
+import PortfolioCard from '@/components/PortfolioCard.vue';
+export default {
+        components: {
+            PortfolioCard
+        }
     }
 </script>
 
