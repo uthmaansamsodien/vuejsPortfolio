@@ -36,3 +36,6 @@
   ::-webkit-scrollbar{
       display: none;
   }
+  .card-body{
+    padding-bottom:rem;
+  }

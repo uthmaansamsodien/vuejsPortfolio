@@ -20,10 +20,11 @@
 </script>
 
 <style scoped>
- .footer{
+ footer{
     background-color: #14004f;
     position: absolute;
     width: 100%;
+
         }
 .info{
     color: white;

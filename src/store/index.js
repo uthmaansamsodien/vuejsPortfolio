@@ -80,8 +80,8 @@ alert(e.message);
 async fetchTestimonials(context) {
 try {
 let res = await fetch(dataURL);
-let { testimonials } = await res.json();
-context.commit('setTestimonials', testimonials);
+let { Testimonials } = await res.json();
+context.commit('setTestimonials', Testimonials);
 }
 catch (e) {
 alert(e.message);
