@@ -1,5 +1,9 @@
 <template>
-  <div class="about">
-    <h1>ABOUT</h1>
+  <div class="home">
+    <h1>About</h1>
   </div>
 </template>
+
+ <style scoped>
+
+</style>
