@@ -44,6 +44,11 @@
     color: #ffea9e;
     margin: 1rem;
   }
-  .card-body{ 
-    
+  .pic-about{ 
+    border-radius: 100%;
+    width: 37rem;
+    padding: 3rem;
+  }
+  .col-text{ 
+    font-size: 1.5rem;
   }
