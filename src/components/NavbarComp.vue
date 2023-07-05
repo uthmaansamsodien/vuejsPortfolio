@@ -10,10 +10,10 @@
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav mx-auto mb-2 mb-lg-0">
               <li class="nav-item">
-                <router-link class="nav-link" to="/">Home</router-link>
+                <router-link class="nav-link" to="/">Home <i class="bi bi-house"></i></router-link>
               </li>
               <li class="nav-item">
-                <router-link class="nav-link" to="/about">About</router-link>
+                <router-link class="nav-link" to="/about">About <i class="bi bi-person-fill"></i></router-link>
               </li>
               <!-- <router-link class="nav-link" to="/resume"> -->
                 <li class="nav-item dropdown">
@@ -27,13 +27,13 @@
                 </li>
               <!-- </router-link> -->
               <li class="nav-item">
-                <router-link class="nav-link" to="/projects">Projects</router-link>
+                <router-link class="nav-link" to="/projects">Projects <i class="bi bi-rocket-takeoff"></i></router-link>
               </li>
               <li class="nav-item">
-                <router-link class="nav-link" to="/testimonials">Testimonials</router-link>
+                <router-link class="nav-link" to="/testimonials">Testimonials <i class="bi bi-file-earmark"></i></router-link>
               </li>
               <li class="nav-item">
-                <router-link class="nav-link" to="/contact">Contact</router-link>
+                <router-link class="nav-link" to="/contact">Contact <i class="bi bi-telephone-fill"></i></router-link>
               </li>
             </ul>   
           </div>
