@@ -44,6 +44,19 @@
     color: #ffea9e;
     margin: 1rem;
   }
-  .card-body{ 
+
+  .bi:hover{
+    color: #ffea9e;
     
+  }
+  
+  .col-word{ 
+    padding: 1rem;
+  }
+  .photo-of-me{ 
+    border-radius: 100%;
+    width: 30rem;
+  }
+  .text-about{ 
+    padding-top: 1rem;
   }

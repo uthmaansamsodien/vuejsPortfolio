@@ -8,8 +8,8 @@
                         {{ plan.titel }}
                         <!-- {{ plan.description }} -->
                     </h5>
-                    <a href="plan.netlify" target="_blank"><button class="btnproject">GitHub</button></a>
-                    <a href="plan.github" target="_blank"><button class="btnproject">Go live</button></a>
+                    <a :href="plan.github" target="_blank"><button class="btnproject">GitHub</button></a>
+                    <a :href="plan.netlify" target="_blank"><button class="btnproject">Go live</button></a>
 
                   </div>
                 </div>

@@ -8,8 +8,9 @@
 <script>
 import ProjectCard from '@/components/ProjectCard.vue';
     export default {
-  components: { ProjectCard },
-        
+        components: {
+            ProjectCard
+        }
     }
 </script>
 
