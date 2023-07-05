@@ -8,10 +8,8 @@
 
 <script>
 import PortfolioCard from '@/components/PortfolioCard.vue';
-export default {
-        components: {
-            PortfolioCard
-        }
+    export default {
+        components: {PortfolioCard}
     }
 </script>
 

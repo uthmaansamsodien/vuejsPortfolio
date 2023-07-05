@@ -1,5 +1,5 @@
 import { createStore } from 'vuex'
-const dataURL= "https://uthmaansamsodien.github.io/jsonserverforportfolio/user.json"
+const dataURL= "https://uthmaansamsodien.github.io/jsonserverforportfolio/data.json"
 
 // computed: {
 //   testimonials() {
