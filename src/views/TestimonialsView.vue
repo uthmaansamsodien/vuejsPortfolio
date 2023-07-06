@@ -1,7 +1,8 @@
 <template>
     <div class="home">
-       <h1>Testimonials</h1>
+       <h1 class="headskill animate__animated animate__fadeInDownBig"><ins>Testimonials</ins></h1>
        <PortfolioCard/>
+       <br>
         </div>
 
 </template>

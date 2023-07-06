@@ -4,11 +4,14 @@
             <div class="card p-0" v-for="learn in Education" style="width: 15rem;" :key="learn.id">
                 <img :src="learn.img" id="img" class="card-img-top" :alt="learn.name" loading="lazy">
                 <div class="card-body">
-                    <h4 class="card-head">
-                        {{ learn.school }}
+                    <h5 class="card-head">
+                        {{ learn.school 
+                        }}:
+                    </h5>                    
+                    <h5 class="card-head">
                         {{ learn.pass }}
                         {{ learn.year }}
-                    </h4>                    
+                    </h5>                    
                 </div>
             </div>
         </div>

@@ -5,9 +5,11 @@
                 <i id="iconskills" :class="skills.icon"></i>
                 <div class="card-body">
                     <h4 class="card-head">
-                        {{ skills.name}}-   
-                        {{ skills.level }}
+                        {{ skills.name}}
                     </h4>
+                    <h5 class="card-head">
+                        {{ skills.level }}
+                    </h5>
                 </div>
             </div>
         </div>
