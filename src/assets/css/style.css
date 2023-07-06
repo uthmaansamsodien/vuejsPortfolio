@@ -65,4 +65,19 @@
     margin: auto;
 
   }
+   .bi:hover{ 
+    color: #ffea9e;
+  }
+  #iconskills{ 
+    font-size: 5rem;
+    color:#14004f;
+  }
 
+  .headskill{ 
+    padding: 3rem;
+  }
+
+  .headedu{ 
+    padding: 3rem;
+
+  }

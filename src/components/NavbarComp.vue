@@ -16,14 +16,8 @@
                 <router-link class="nav-link" to="/about">About <i class="bi bi-person-fill"></i></router-link>
               </li>
               <!-- <router-link class="nav-link" to="/resume"> -->
-                <li class="nav-item dropdown">
-                  <router-link to="/resume" class="btn dropdown-toggle nav-link" data-bs-toggle="dropdown" aria-expanded="false">
-                    Resume
-                  </router-link>
-                  <ul class="dropdown-menu dropdown-menu-dark">
-                    <li><router-link to="/resume" class="dropdown-item" href="#">Skills</router-link></li>
-                    <li><router-link to="" class="dropdown-item" href="#">Education</router-link></li>
-                  </ul>
+                <li class="nav-item ">
+                  <router-link class="nav-link" to="/resume">Resume <i class="bi bi-pencil-square"></i></router-link>
                 </li>
               <!-- </router-link> -->
               <li class="nav-item">
