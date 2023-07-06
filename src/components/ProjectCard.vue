@@ -6,7 +6,6 @@
                 <div class="card-body">
                     <h5 class="card-head">
                         {{ plan.titel }}
-                        <!-- {{ plan.description }} -->
                     </h5>
                     <a :href="plan.netlify" target="_blank"><button class="btnproject">Go live</button></a>
                     <a :href="plan.github" target="_blank"><button class="btnproject">GitHub</button></a>

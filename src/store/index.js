@@ -1,18 +1,10 @@
 import { createStore } from 'vuex'
 const dataURL= "https://uthmaansamsodien.github.io/jsonserverforportfolio/data.json"
 
-// computed: {
-//   testimonials() {
-//       return this.$store.state.testimonials
-//   }
-// },
-// mounted() {
-//   this.$store.dispatch('fetchTestimonials')
-// }
 export default createStore({
 state: {
-skills: null,
-education: null,
+Skills: null,
+Education: null,
 experience: null,
 projects: null,
 testimonials: null
@@ -20,11 +12,11 @@ testimonials: null
 getters: {
 },
 mutations: {
-setSkills(state, skills) {
-state.skills = skills
+setSkills(state, Skills) {
+state.Skills = Skills
 },
-setEducation(state, education) {
-state.education = education
+setEducation(state, Education) {
+state.Education = Education
 },
 setExperience(state, experience) {
 state.experience = experience
@@ -40,8 +32,8 @@ actions: {
 async fetchSkills(context) {
 try {
 let res = await fetch(dataURL);
-let { skills } = await res.json();
-context.commit('setSkills', skills);
+let { Skills } = await res.json();
+context.commit('setSkills', Skills);
 }
 catch (e) {
 alert(e.message);
@@ -50,8 +42,8 @@ alert(e.message);
 async fetchEducation(context) {
 try {
 let res = await fetch(dataURL);
-let { education } = await res.json();
-context.commit('setEducation', education);
+let { Education } = await res.json();
+context.commit('setEducation', Education);
 }
 catch (e) {
 alert(e.message);
