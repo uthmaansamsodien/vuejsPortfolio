@@ -1,10 +1,10 @@
 <template>
     <div class="home">
 
-        <h1 class="headskill"><ins>Skills</ins></h1>
+        <h1 class="headskill animate__animated animate__fadeInDownBig"><ins>Skills</ins></h1>
         <SkillsCard/>
         
-        <h1 class="headedu"><ins>Education</ins></h1>
+        <h1 class="headedu animate__animated animate__fadeInDownBig"><ins>Education</ins></h1>
         <EducationCard/>
         <br>
         <br>

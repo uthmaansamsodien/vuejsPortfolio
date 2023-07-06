@@ -31,7 +31,8 @@
         }
 .bi{ 
     color: white;
-    padding: 5px;
+    padding: 6px;
+    
 }
 
 </style>

@@ -1,8 +1,9 @@
 <template>
     <div class="home">
-        
-            <h1>Contact</h1>
-            <p>Get in touch with me!</p>
+        <div class="headskill animate__animated animate__fadeInDownBig">
+          <h1><ins>Contact</ins></h1>
+          <p>Let's connect</p>
+        </div>
         
             <form class="p-5" action="https://formspree.io/f/xqkonyvj" method="POST">
             <div>
