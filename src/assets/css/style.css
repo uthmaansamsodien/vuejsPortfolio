@@ -4,11 +4,15 @@
     text-align: center;
  }
  #app {
+    display: grid;
+    grid-template-columns: 100%;
+    grid-template-rows: auto minmax(100vh, 1fr) auto;
     font-family: 'Belleza', sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     text-align: center;
     color: #14004f;
+    background-color: #ffea9e;
   }
   
   nav {
@@ -25,8 +29,9 @@
   }
   .home{
     background-color: #ffea9e;
-    background-size: cover;
-    height: 69vh;
+    background-attachment: fixed;
+    height: 100%;
+
   }
   .photo{ 
     border-radius: 100%;
