@@ -22,7 +22,7 @@
 <style scoped>
  footer{
     background-color: #14004f;
-    position: sticky;
+    position: fixed;
     width: 100%;
     bottom: 0;
         }
