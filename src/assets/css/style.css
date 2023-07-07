@@ -1,8 +1,10 @@
- .body{ 
+
+@import url('https://fonts.googleapis.com/css2?family=Belleza&display=swap');
+.body{ 
     text-align: center;
  }
  #app {
-    font-family: Avenir, Helvetica, Arial, sans-serif;
+    font-family: 'Belleza', sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     text-align: center;
@@ -13,7 +15,7 @@
     padding: 30px;
   }
   
-  nav a {
+  nav a, .bi {
     font-weight: bold;
     color: #2c3e50;
   }
@@ -44,6 +46,7 @@
     color: #ffea9e;
     margin: 1rem;
     border-radius: 0.3rem;
+    border: none;
   }
 
   .pic-about{ 
@@ -83,4 +86,7 @@
   }
 .card:hover{
   transform: scale(1.1);
+}
+.col-text{ 
+  padding-top: 3rem;
 }
