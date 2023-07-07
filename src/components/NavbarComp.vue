@@ -10,24 +10,22 @@
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav mx-auto mb-2 mb-lg-0">
               <li class="nav-item">
-                <router-link class="nav-link" to="/">Home <i class="bi bi-house"></i></router-link>
+                <router-link class="nav-link bi-house" to="/">  Home</router-link>
               </li>
               <li class="nav-item">
-                <router-link class="nav-link" to="/about">About <i class="bi bi-person-fill"></i></router-link>
+                <router-link class="nav-link bi-person-fill" to="/about">  About</router-link>
               </li>
-              <!-- <router-link class="nav-link" to="/resume"> -->
                 <li class="nav-item ">
-                  <router-link class="nav-link" to="/resume">Resume <i class="bi bi-pencil-square"></i></router-link>
+                  <router-link class="nav-link bi-pencil-square" to="/resume">  Resume</router-link>
                 </li>
-              <!-- </router-link> -->
               <li class="nav-item">
-                <router-link class="nav-link" to="/projects">Projects <i class="bi bi-rocket-takeoff"></i></router-link>
+                <router-link class="nav-link bi-rocket-takeoff" to="/projects">  Projects</router-link>
               </li>
               <li class="nav-item">
-                <router-link class="nav-link" to="/testimonials">Testimonials <i class="bi bi-file-earmark"></i></router-link>
+                <router-link class="nav-link bi-file-earmark" to="/testimonials">  Testimonials</router-link>
               </li>
               <li class="nav-item">
-                <router-link class="nav-link" to="/contact">Contact <i class="bi bi-telephone-fill"></i></router-link>
+                <router-link class="nav-link bi-telephone-fill" to="/contact">  Contact</router-link>
               </li>
             </ul>   
           </div>
