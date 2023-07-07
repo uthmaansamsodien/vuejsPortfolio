@@ -25,11 +25,15 @@
   }
   .home{
     background-color: #ffea9e;
+    background-size: cover;
+    height: 69vh;
   }
   .photo{ 
     border-radius: 100%;
-    width: 37rem;
-    padding: 3rem;
+    width: 29rem;
+    margin-top: 3rem;
+    /* padding: 3rem; */
+    
   }
   .text{
     margin-top: 16rem;

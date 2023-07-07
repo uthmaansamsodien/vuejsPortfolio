@@ -22,9 +22,9 @@
 <style scoped>
  footer{
     background-color: #14004f;
-    position: absolute;
+    position: sticky;
     width: 100%;
-
+    bottom: 0;
         }
 .info{
     color: white;
