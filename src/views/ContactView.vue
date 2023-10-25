@@ -5,7 +5,11 @@
           <p>Let's connect</p>
         </div>
         
-            <form class="p-5" action="https://formspree.io/f/xqkonyvj" method="POST">
+      
+  <div class="row align-items-center">
+    <div class="col">
+   
+      <form class="p-5" action="https://formspree.io/f/xqkonyvj" method="POST">
             <div>
               <label for="exampleFormControlInput1" class="form-label">First Name:</label>
               <input name="firstname" type="text" class="form-control" id="exampleFormControlInput1" placeholder="(required)"  required
@@ -31,8 +35,12 @@
                 <button type="submit" class="btnproject">Submit</button>
               </div>
             </form>
-        
-        </div>
+    </div>
+    <div class="col">
+      
+    </div>
+  </div>
+  </div>
 </template>
 
 <script>

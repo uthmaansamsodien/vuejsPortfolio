@@ -1,7 +1,12 @@
 <template>
   <div class="home">
+    <br/>
+        <br/>
+        <br/>
+        <br/>
     <div class="container text-center">
       <div class="row">
+        
         <div class="col">
           <img
             class="photo animate__animated animate__fadeInLeftBig"
@@ -19,12 +24,15 @@
             An aspiring front-end developer.
           </h5>
           <router-link to="/contact">
-            <button
-              class="btnproject animate__animated animate__fadeInRightBig"
-            >
+            <button class="btnproject animate__animated animate__fadeInRightBig">
               Lets connect
-            </button></router-link
-          >
+            </button>
+            </router-link>
+          <router-link to="file:///C:/Users/Intern-59/Downloads/CV%20of%20Uthmman%20Samsodien%20(1).pdf">
+            <button class="btnproject animate__animated animate__fadeInRightBig">
+              Download my CV
+            </button>
+            </router-link>
         </div>
       </div>
     </div>
@@ -38,11 +46,8 @@ export default {};
 <style scoped>
 h1 {
   margin-bottom: 0;
+  font-size: 3.5rem;
 }
-
-.home {
-}
-
 #homeDetails {
   display: flex;
   flex-direction: column;

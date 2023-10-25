@@ -1,6 +1,10 @@
 <template>
     <div class="home">
-        <h1 class="animate__animated animate__fadeInDownBig"><ins>Projects</ins></h1>
+        <br/>
+        <br/>
+        
+        <h1 class="animate__animated animate__fadeInDownBig"><ins>My work</ins></h1>
+        <br/><br/>
         <ProjectCard/>
     </div>
 </template>

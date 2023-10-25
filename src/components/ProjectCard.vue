@@ -36,4 +36,8 @@ mounted() {
 button {
     border-radius: 0.5rem;
 }
+card-img-top{
+    height: 10rem;
+    width: 12rem;
+}
 </style>
