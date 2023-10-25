@@ -19,10 +19,10 @@
     }
 </script>
 
-<style scoped>
+<style>
  footer{
     background-color: #14004f;
-    position: fixed;
+    position: relative;
     width: 100%;
     bottom: 0;
         }
