@@ -38,7 +38,6 @@
     width: 29rem;
     margin-top: 3rem;
     /* padding: 3rem; */
-    
   }
   .text{
     margin-top: 16rem;
@@ -98,4 +97,15 @@
 }
 .col-text{ 
   padding-top: 3rem;
+}
+
+.art{
+  height: 21rem;
+  margin: 1rem;
+}
+@media only screen and (max-width: 800px){
+
+  .pas{
+    font-size: 3.8rem;
+  }
 }

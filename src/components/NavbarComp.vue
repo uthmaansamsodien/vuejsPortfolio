@@ -2,7 +2,7 @@
     <div>
     <nav class="navbar navbar-expand-lg" >
         <div class="container-fluid">
-          <router-link class="navbar-brand" to="/" ><img class="logo" src="https://i.postimg.cc/fbM8F0P4/5-removebg-preview.png" alt="Logo"></router-link>
+          <router-link class="navbar-brand" to="/" ><img class="logo" src="https://i.postimg.cc/cL6WNnD8/Untitled-design-1.png" alt="Logo"></router-link>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span><i class="bi bi-list"></i></span>

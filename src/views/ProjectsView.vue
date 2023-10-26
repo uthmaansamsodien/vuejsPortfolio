@@ -6,6 +6,7 @@
         <h1 class="animate__animated animate__fadeInDownBig"><ins>My work</ins></h1>
         <br/><br/>
         <ProjectCard/>
+        <br/>
     </div>
 </template>
 

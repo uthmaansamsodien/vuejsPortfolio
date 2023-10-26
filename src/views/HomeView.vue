@@ -4,6 +4,7 @@
         <br/>
         <br/>
         <br/>
+      
     <div class="container text-center">
       <div class="row">
         
@@ -28,7 +29,7 @@
               Lets connect
             </button>
             </router-link>
-          <router-link to="file:///C:/Users/Intern-59/Downloads/CV%20of%20Uthmman%20Samsodien%20(1).pdf">
+          <router-link to="https://drive.google.com/file/d/1PHy4OG_nt25stcZ3ponbJf3nc5WUZ_lg/view?usp=drive_link" target="_blank">
             <button class="btnproject animate__animated animate__fadeInRightBig">
               Download my CV
             </button>
@@ -65,5 +66,6 @@ h1 {
   .headskill {
     padding-top: 1rem;
   }
+  
 }
 </style>

@@ -37,8 +37,12 @@
             </form>
     </div>
     <div class="col">
-      
+     <div>
+      <img src="https://i.postimg.cc/cL902m03/Untitled-design-2-removebg-preview-1.png" alt="logo"> 
+     </div>
     </div>
+    <h1><ins>Personal info</ins></h1>
+    <p></p>
   </div>
   </div>
 </template>
@@ -50,5 +54,8 @@
 </script>
 
 <style scoped>
-
+img{
+  height: 30rem;
+  margin-bottom: rem;
+}
 </style>
