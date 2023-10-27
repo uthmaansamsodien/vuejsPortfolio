@@ -1,6 +1,6 @@
 <template>
     <div class="container">
-        <div class="row justify-content-center gap-4">
+        <div class="row justify-content-center gap-5">
             <div class="card p-0" v-for="skills in Skills" style="width: 15rem;" :key="skills.id">
                 <i id="iconskills" :class="skills.icon"></i>
                 <div class="card-body">
@@ -31,5 +31,8 @@ mounted() {
 </script>
 
 <style scoped>
-
+.card{
+    background-color: transparent !important;
+    border: 0;
+}
 </style>

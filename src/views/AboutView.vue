@@ -28,6 +28,7 @@
           <img class="pic-about animate__animated animate__fadeInRightBig" src="https://i.postimg.cc/vZywbJCR/E61-D7-A28-EA51-497-B-9-E13-9-F7-D3861-DB07.jpg" alt="Logo" >
         </div>
         <div class="col col-text animate__animated animate__fadeInLeftBig" >
+          <h3><ins>Football</ins></h3>
           From the first time that I can remember when I was a child, football has been a passion that's grown into life. 
           I recall those early days when I'd kick around a worn-out ball in the backyard, pretending I was a superstar on the world stage.
            As I grew, my love for the game only grew stronger and stronger. 
@@ -39,6 +40,7 @@
     <div class="container ">
       <div class="row align-items-start">
         <div class=" col-text animate__animated animate__fadeInLeftBig" >
+          <h3><ins>Painting</ins></h3>
           I have passion for painting art which runs deep, and it's a side hobby that helps me relax and puts me at a safe placeholder.
            From the moment I pick up a brush and touch it to a canvas, I enter a world of boundless creativity and self-expression, and this is me when doing anything i do.
             The act of painting allows me to translate my thoughts, emotions, and the beauty of the world around me onto a blank surface.
@@ -68,7 +70,4 @@
   text-align: justify;
 }  
 
-h1{
-  font-size: 4rem;
-}
 </style>

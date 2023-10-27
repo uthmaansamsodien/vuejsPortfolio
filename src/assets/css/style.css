@@ -39,6 +39,18 @@
     margin-top: 3rem;
     /* padding: 3rem; */
   }
+  .photo:hover{
+    /* transform: scale(1.1) !important;
+    transition: transform .2s !important; */
+    /* padding: 50px; */
+    /* background-color: green; */
+     transition: ease-in 0.2s !important;
+    /*width: 32rem; 
+    height: 32rem; */
+    /* margin: 0 auto; */
+    transform: scale(1.1) !important;
+  }
+
   .text{
     margin-top: 16rem;
     
@@ -102,6 +114,14 @@
 .art{
   height: 21rem;
   margin: 1rem;
+}
+.art:hover{
+    transform: scale(1.1) !important;
+  
+}
+
+h1{
+  font-size: 4rem;
 }
 @media only screen and (max-width: 800px){
 

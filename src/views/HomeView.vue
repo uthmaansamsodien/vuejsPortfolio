@@ -19,7 +19,7 @@
           <!-- <div class="row text animate__animated animate__fadeInLeftBig">
           </div > -->
           <h1 class="animate__animated animate__fadeInRightBig">
-            Hello, my name is Uthmaan.
+            Hello, I'm Uthmaan.
           </h1>
           <h5 class="animate__animated animate__fadeInRightBig 0.1s">
             An aspiring front-end developer.

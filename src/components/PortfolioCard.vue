@@ -31,5 +31,14 @@ mounted() {
 </script>
 
 <style scoped>
-
+/* .card-text{ */
+    /* background-color: #14004f;
+    color: antiquewhite;
+}
+.card-body{
+    background-color: #14004f;
+}
+.card-head{
+color: antiquewhite;
+} */
 </style>
