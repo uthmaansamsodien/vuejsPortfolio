@@ -1,6 +1,6 @@
 <template>
     <div class="container">
-        <div class="row justify-content-center gap-5">
+        <div class="row justify-content-center gap-5 animate__animated animate__slideInUp">
             <div class="card p-0" v-for="skills in Skills" style="width: 15rem;" :key="skills.id">
                 <i id="iconskills" :class="skills.icon"></i>
                 <div class="card-body">

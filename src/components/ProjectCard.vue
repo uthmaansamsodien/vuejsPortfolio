@@ -1,6 +1,6 @@
 <template>
     <div class="container">
-        <div class="row justify-content-center gap-5">
+        <div class="row justify-content-center gap-5 animate__animated animate__slideInUp">
             <div class="card p-0" v-for="plan in projects" style="width: 15rem;" :key="plan.id">
                 <img :src="plan.img" id="img" class="card-img-top" :alt="plan.titel" loading="lazy">
                 <div class="card-body">
@@ -39,5 +39,9 @@ button {
 card-img-top{
     height: 10rem;
     width: 12rem;
+}
+.card{
+    background-color: transparent !important;
+    border: 0;
 }
 </style>

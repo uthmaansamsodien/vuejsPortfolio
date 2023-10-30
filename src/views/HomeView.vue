@@ -19,20 +19,20 @@
           <!-- <div class="row text animate__animated animate__fadeInLeftBig">
           </div > -->
           <h1 class="animate__animated animate__fadeInRightBig">
-            Hello, I'm Uthmaan.
+            Hey, I'm Uthmaan Samsodien.
           </h1>
           <h5 class="animate__animated animate__fadeInRightBig 0.1s">
             An aspiring front-end developer.
           </h5>
           <router-link to="/contact">
-            <button class="btnproject animate__animated animate__fadeInRightBig">
+            <button class="btnproject animate__animated animate__fadeInUpBig">
               Lets connect
+            </button>
+            <button class="btnproject animate__animated animate__fadeInUpBig">
+              Download my CV
             </button>
             </router-link>
           <router-link to="https://drive.google.com/file/d/1PHy4OG_nt25stcZ3ponbJf3nc5WUZ_lg/view?usp=drive_link" target="_blank">
-            <button class="btnproject animate__animated animate__fadeInRightBig">
-              Download my CV
-            </button>
             </router-link>
         </div>
       </div>
@@ -47,7 +47,7 @@ export default {};
 <style scoped>
 h1 {
   margin-bottom: 0;
-  font-size: 3.5rem;
+  font-size: 3.3rem;
 }
 #homeDetails {
   display: flex;

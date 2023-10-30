@@ -4,7 +4,13 @@
     <br/>
     <br/>
     <h1 class="animate__animated animate__fadeInDownBig"><ins>About Me</ins></h1>
+    <router-link to="/resume">
+    <button class="btnproject animate__animated animate__fadeInRightBig">
+              View my resume
+            </button>
+            </router-link>
     <div class="container ">
+      
       <div class="row align-items-start">
         <div class="col col-text animate__animated animate__fadeInLeftBig" >
           Hello, my name is Uthmaan Samsodien and I am 21 years old. Born in Cape Town, South Africa.
@@ -61,6 +67,7 @@
       </div>
     </div>
     <br/><br/>
+    
   </div>
 </template>
 
