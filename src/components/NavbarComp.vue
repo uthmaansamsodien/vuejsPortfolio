@@ -58,6 +58,7 @@
 }
 .navbar{
     background-color: #14004f;
+    padding: 1.1rem;
 }
 .body{
     color: #ffeca8;

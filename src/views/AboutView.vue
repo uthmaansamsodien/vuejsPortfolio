@@ -5,7 +5,7 @@
     <br/>
     <h1 class="animate__animated animate__fadeInDownBig"><ins>About Me</ins></h1>
     <router-link to="/resume">
-    <button class="btnproject animate__animated animate__fadeInRightBig">
+    <button class="btnproject animate__animated animate__fadeInUpBig">
               View my resume
             </button>
             </router-link>
@@ -61,7 +61,7 @@
           <img class=" art animate__animated animate__fadeInRightBig" src="https://i.postimg.cc/HWNfn58H/GCSD6588.jpg" alt="Logo" >
           <img class=" art animate__animated animate__fadeInRightBig" src="https://i.postimg.cc/SssvNNyJ/IMG-5152.jpg" alt="Logo" >
           <img class=" art animate__animated animate__fadeInRightBig" src="https://i.postimg.cc/59Q7PQzt/IMG-0912.jpg" alt="Logo" >
-          <img class=" art animate__animated animate__fadeInRightBig" src="https://i.postimg.cc/jjC1RSqC/IMG-E3223.jpg" alt="Logo" >
+          <img class=" art animate__animated animate__fadeInRightBig" src="https://i.postimg.cc/jjC1RSqC/IMG-E3223.jpg" alt="Logo">
         </div>
   
       </div>

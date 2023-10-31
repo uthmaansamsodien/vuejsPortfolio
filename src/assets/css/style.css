@@ -114,6 +114,7 @@
 .art{
   height: 21rem;
   margin: 1rem;
+  border: 1rem solid #ffffff;;
 }
 .art:hover{
     transform: scale(1.1) !important;
