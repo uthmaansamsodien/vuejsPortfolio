@@ -44,10 +44,13 @@
 <style scoped>
 .nav-link{
     color: white;
+    
 }
 
 .nav-link:hover {
   color: #ffeca8;
+  transform: scale(1.2);
+
 }
 .navbar-toggler-icon{
   color: #ffeca8;
@@ -66,5 +69,8 @@
 
 i{
   color: white;
+}
+.navbar-brand:hover{
+  transform: scale(1.2);
 }
 </style>

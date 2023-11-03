@@ -43,5 +43,9 @@ card-img-top{
 .card{
     background-color: transparent !important;
     border: 0;
+    margin: 2rem;
+}
+#img{
+    aspect-ratio: 2/1;
 }
 </style>

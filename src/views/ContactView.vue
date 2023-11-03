@@ -1,8 +1,8 @@
 <template>
     <div class="home">
         <div class="headskill animate__animated animate__fadeInDownBig">
-          <h1><ins>Contact</ins></h1>
-          <p class="word">Let's connect</p>
+          <h1><ins>Let's connect</ins></h1>
+          <p class="word">Get in touch with me!</p>
         </div>
         
       

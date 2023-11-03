@@ -34,10 +34,10 @@ mounted() {
 
 <style scoped>
 .card-body{
-    background-color: #ffea9e;
+    /* background-color: #ffea9e; */
 }
 .card-hard{
-    background-color: #ffea9e;
+    /* background-color: #ffea9e; */
 }
 .card{
     background-color: transparent !important;

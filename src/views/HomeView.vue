@@ -24,16 +24,17 @@
           <h5 class="animate__animated animate__fadeInRightBig 0.1s">
             An aspiring front-end developer.
           </h5>
-          <router-link to="/contact">
-            <button class="btnproject animate__animated animate__fadeInUpBig">
-              Lets connect
-            </button>
-            <button class="btnproject animate__animated animate__fadeInUpBig">
-              Download my CV
-            </button>
+          <div>
+            <router-link to="/contact">
+              <button class="btnproject animate__animated animate__fadeInUpBig">
+                Lets connect
+             </button>
             </router-link>
-          <router-link to="https://drive.google.com/file/d/1PHy4OG_nt25stcZ3ponbJf3nc5WUZ_lg/view?usp=drive_link" target="_blank">
-            </router-link>
+            <a href="/files/CV of Uthmaan Samsodien.pdf" download target="_blank">
+  <button class="btnproject animate__animated animate__fadeInUpBig"><i></i>download my CV</button>
+  </a>
+            
+          </div>
         </div>
       </div>
     </div>
@@ -45,10 +46,32 @@ export default {};
 </script>
 
 <style scoped>
-h1 {
-  margin-bottom: 0;
-  font-size: 3.3rem;
+h1{
+  overflow: hidden; /* Ensures the content is not revealed until the animation */
+  border-right: .15em solid #14004f; /* The typwriter cursor */
+  white-space: nowrap; /* Keeps the content on a single line */
+  margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+  letter-spacing: .15em; /* Adjust as needed */
+  animation: 
+    typing 3.5s steps(40, end),
+    blink-caret .75s step-end infinite;
+    font-size: 3rem;
 }
+
+/* The typing effect */
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+
+/* The typewriter cursor effect */
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: #14004f; }
+}
+  /* margin-bottom: 0;
+  font-size: 3.3rem; */
+
 #homeDetails {
   display: flex;
   flex-direction: column;
@@ -66,6 +89,12 @@ h1 {
   .headskill {
     padding-top: 1rem;
   }
+  h1{
+    font-size: 1.11rem;
+  }
   
+}
+.btnproject:hover{
+  transform: scale(1.1) !important;
 }
 </style>

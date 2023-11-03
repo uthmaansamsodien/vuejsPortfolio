@@ -1,6 +1,6 @@
 <template>
     <div class="home">
-       <h1 class="headskill animate__animated animate__fadeInDownBig"><ins>Testimonials</ins></h1>
+       <h1 class=" headedu headskill animate__animated animate__fadeInDownBig"><ins>Testimonials</ins></h1>
        <PortfolioCard/>
        <br>
         </div>
@@ -15,5 +15,9 @@ import PortfolioCard from '@/components/PortfolioCard.vue';
 </script>
 
 <style scoped>
-
+@media only screen and (max-width: 800px){
+.headedu{
+    font-size: 3rem;
+}
+}
 </style>

@@ -40,5 +40,8 @@ Powered by Uthmaan Samsodien<br>
 height: 2rem;
 margin-bottom: 1rem;
 }
+.logo:hover{
+  transform: scale(1.2);
+}
 
 </style>

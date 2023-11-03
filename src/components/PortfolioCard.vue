@@ -42,10 +42,11 @@ mounted() {
 color: antiquewhite;
 } */
 .card-img-top{
-    aspect-ratio: 1;
+    aspect-ratio: 1/0;
 }
 .card{
     background-color: transparent !important;
     border: 0;
+    margin: 2rem;
 }
 </style>

@@ -53,8 +53,9 @@
              While it may be a side hobby, it's anything but secondary in my heart. Every piece I create is a labor of love, a personal journey that speaks to my concealed feelings and observations.
             And below are a few of my artworks that I have completed.
             
+            <br/>
+            <br/>
         </div>
-        <br/>
         <br/>
         <br/>
         <div class="col d-none d-md-block">
