@@ -5,45 +5,47 @@
                 <img :src="learn.img" id="img" class="card-img-top" :alt="learn.name" loading="lazy">
                 <div class="card-body">
                     <h5 class="card-head">
-                        {{ learn.school 
+                        {{ learn.school
                         }}:
-                    </h5>                    
+                    </h5>
                     <h5 class="card-head">
                         {{ learn.pass }}
                         {{ learn.year }}
-                    </h5>                    
+                    </h5>
                 </div>
             </div>
         </div>
     </div>
-
 </template>
 
 <script>
-     export default {
-            computed: {
-                Education() {
-      return this.$store.state.Education
-  }
-},
-mounted() {
-  this.$store.dispatch('fetchEducation')
-}
+export default {
+    computed: {
+        Education() {
+            return this.$store.state.Education
+        }
+    },
+    mounted() {
+        this.$store.dispatch('fetchEducation')
     }
+}
 </script>
 
 <style scoped>
-.card-body{
+.card-body {
     /* background-color: #ffea9e; */
 }
-.card-hard{
+
+.card-hard {
     /* background-color: #ffea9e; */
 }
-.card{
+
+.card {
     background-color: transparent !important;
     border: 0;
 }
-.educard{
-    margin: 2rem ;
+
+.educard {
+    margin: 2rem;
 }
 </style>

@@ -5,7 +5,7 @@
                 <i id="iconskills" :class="skills.icon"></i>
                 <div class="card-body">
                     <h4 class="card-head">
-                        {{ skills.name}}
+                        {{ skills.name }}
                     </h4>
                     <h5 class="card-head">
                         {{ skills.level }}
@@ -14,24 +14,23 @@
             </div>
         </div>
     </div>
-
 </template>
 
 <script>
-     export default {
-            computed: {
-                Skills() {
-      return this.$store.state.Skills
-  }
-},
-mounted() {
-  this.$store.dispatch('fetchSkills')
-}
+export default {
+    computed: {
+        Skills() {
+            return this.$store.state.Skills
+        }
+    },
+    mounted() {
+        this.$store.dispatch('fetchSkills')
     }
+}
 </script>
 
 <style scoped>
-.card{
+.card {
     background-color: transparent !important;
     border: 0;
 }

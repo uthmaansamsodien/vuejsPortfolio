@@ -1,19 +1,17 @@
 <template>
   <div class="home">
-    <br/>
-        <br/>
-        <br/>
-        <br/>
-      
+    <br />
+    <br />
+    <br />
+    <br />
+
     <div class="container text-center">
       <div class="row">
-        
+
         <div class="col">
-          <img
-            class="photo animate__animated animate__fadeInLeftBig"
-            src="https://i.postimg.cc/vTv25jC8/IMG-6957-sqaure.jpg"
-            alt=""
-          />
+          <img class="photo animate__animated animate__fadeInLeftBig"
+            src="https://i.postimg.cc/vTv25jC8/IMG-6957-sqaure.jpg" alt="" />
+          <br>
         </div>
         <div class="col" id="homeDetails">
           <!-- <div class="row text animate__animated animate__fadeInLeftBig">
@@ -28,12 +26,12 @@
             <router-link to="/contact">
               <button class="btnproject animate__animated animate__fadeInUpBig">
                 Lets connect
-             </button>
+              </button>
             </router-link>
             <a href="/files/CV of Uthmaan Samsodien.pdf" target="_blank">
-  <button class="btnproject animate__animated animate__fadeInUpBig"><i></i>View my CV</button>
-  </a>
-            
+              <button class="btnproject animate__animated animate__fadeInUpBig"><i></i>View my CV</button>
+            </a>
+
           </div>
         </div>
       </div>
@@ -46,30 +44,48 @@ export default {};
 </script>
 
 <style scoped>
-h1{
-  overflow: hidden; /* Ensures the content is not revealed until the animation */
-  border-right: .15em solid #14004f; /* The typwriter cursor */
-  white-space: nowrap; /* Keeps the content on a single line */
-  margin: 0 auto; /* Gives that scrolling effect as the typing happens */
-  letter-spacing: .15em; /* Adjust as needed */
-  animation: 
+h1 {
+  overflow: hidden;
+  /* Ensures the content is not revealed until the animation */
+  border-right: .15em solid #14004f;
+  /* The typwriter cursor */
+  white-space: nowrap;
+  /* Keeps the content on a single line */
+  margin: 0 auto;
+  /* Gives that scrolling effect as the typing happens */
+  letter-spacing: .15em;
+  /* Adjust as needed */
+  animation:
     typing 3.5s steps(40, end),
     blink-caret .75s step-end infinite;
-    font-size: 3rem;
+  font-size: 3rem;
 }
 
 /* The typing effect */
 @keyframes typing {
-  from { width: 0 }
-  to { width: 100% }
+  from {
+    width: 0
+  }
+
+  to {
+    width: 100%
+  }
 }
 
 /* The typewriter cursor effect */
 @keyframes blink-caret {
-  from, to { border-color: transparent }
-  50% { border-color: #14004f; }
+
+  from,
+  to {
+    border-color: transparent
+  }
+
+  50% {
+    border-color: #14004f;
+  }
 }
-  /* margin-bottom: 0;
+
+/* margin-bottom: 0;
   font-size: 3.3rem; */
 
 #homeDetails {
@@ -86,16 +102,17 @@ h1{
     transform: translate(1%, 40%);
     padding: 1rem;
   }
+
   .headskill {
     padding-top: 1rem;
   }
-  h1{
+
+  h1 {
     font-size: 1.11rem;
   }
-  
-}
-.btnproject:hover{
-  transform: scale(1.1) !important;
+
 }
 
-</style>
+.btnproject:hover {
+  transform: scale(1.1) !important;
+}</style>

@@ -10,42 +10,47 @@
                     <a :href="plan.netlify" target="_blank"><button class="btnproject">Go live</button></a>
                     <a :href="plan.github" target="_blank"><button class="btnproject">GitHub</button></a>
 
-                  </div>
                 </div>
             </div>
         </div>
+    </div>
 
-        <div> <br/> </div>
-   
+    <div> <br /> </div>
 </template>
 
 <script>
-    export default {
-            computed: {
-                projects() {
-      return this.$store.state.projects
-  }
-},
-mounted() {
-  this.$store.dispatch('fetchProjects')
-}
+export default {
+    computed: {
+        projects() {
+            return this.$store.state.projects
+        }
+    },
+    mounted() {
+        this.$store.dispatch('fetchProjects')
     }
+}
 </script>
 
 <style scoped>
 button {
     border-radius: 0.5rem;
+    margin: 5%;
 }
-card-img-top{
+
+card-img-top {
     height: 10rem;
     width: 12rem;
 }
-.card{
+
+.card {
     background-color: transparent !important;
     border: 0;
     margin: 2rem;
+    /* box-shadow: 4px 4px 4px 1px #14004f; */
+    /* text-align: justify; */
 }
-#img{
+
+#img {
     aspect-ratio: 2/1;
 }
 </style>
