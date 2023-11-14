@@ -48,7 +48,7 @@ color: antiquewhite;
     background-color: transparent !important;
     border: 0;
     margin: 2rem;
-    box-shadow: 4px 4px 4px 1px #14004f;
+    box-shadow:  8px 8px 8px 1px #14004f;
     text-align:left;
     width: 19rem !important;
 }
