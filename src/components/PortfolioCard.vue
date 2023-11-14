@@ -9,7 +9,7 @@
                             {{ beings.Surname }}</ins>
                     </h4>
                     <p class="card-text">
-                        {{ beings.message }}
+                        "{{ beings.message }}"
                     </p>
                 </div>
             </div>
@@ -49,7 +49,7 @@ color: antiquewhite;
     border: 0;
     margin: 2rem;
     box-shadow: 4px 4px 4px 1px #14004f;
-    /* text-align: justify; */
+    text-align:left;
 }
 
 .card-text {
