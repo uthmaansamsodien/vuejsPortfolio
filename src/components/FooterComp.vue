@@ -5,9 +5,9 @@
     <br>
 Powered by Uthmaan Samsodien<br>
     &copy;Copright 2023 <br>    
-    <a href="https://codepen.io/uthmaansamsodien" target="_blank" class="fa-brands fa-codepen"></a> 
+    <!-- <a href="https://codepen.io/uthmaansamsodien" target="_blank" class="fa-brands fa-codepen"></a>  -->
     <!-- <br/> -->
-    <!-- <a href="https://www.instagram.com/uthmaansamsodienn" target="_blank" class="bi bi-instagram"></a>  -->
+    <a href="https://www.instagram.com/uthmaansamsodienn" target="_blank" class="bi bi-instagram"></a> 
     <a href="https://www.linkedin.com/in/uthmaan-samsodien-416525276/" target="_blank" class="bi bi-linkedin"></a> 
     <a href="https://github.com/uthmaansamsodien" target="_blank" class="bi bi-github"></a>
 </p>

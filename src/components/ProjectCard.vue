@@ -46,6 +46,7 @@ card-img-top {
     background-color: transparent !important;
     border: 0;
     margin: 2rem;
+    width: 17rem !important;
     /* box-shadow: 4px 4px 4px 1px #14004f; */
     /* text-align: justify; */
 }

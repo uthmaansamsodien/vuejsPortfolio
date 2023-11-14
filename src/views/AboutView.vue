@@ -13,15 +13,13 @@
 
       <div class="row align-items-start">
         <div class="col col-text animate__animated animate__fadeInLeftBig">
-          Hello, my name is Uthmaan Samsodien and I am 21 years old. Born in Cape Town, South Africa.
-          I am currently a student at Life Choices and want to find a job in the Web-Devlopment industry,
-          I attended and graduatuated at South Peninsula High (2017-2022). I am a very sport orientated person who loves
-          being active.<br>
-          I am always up to learning new things to up-skill myself, trying to achieve the best possible version of myself.
-          I've always had a passion for technology and gadgets (phones, computers, consoles ect.) since a young age.
-          I am always driven by my passion, eager to learn from new people getting new ideas and perspectives.
-          <br> I enjoy working with people, learning from them, motivating them and always giving my full and undevided
-          attention to when I am interacting with them.
+          I'm Uthmaan Samsodien, a 21-year-old  intern at Life Choices in Cape Town, South Africa. 
+          I recently graduated from South Peninsula High.
+          My passion lies in the Web-Development industry, and I'm actively seeking job opportunities in that field. 
+          Alongside my academic pursuits, I am a sports enthusiast, always striving to be active. 
+          I have a keen interest in technology and gadgets, stemming from a young age. 
+          Driven by my passion, I am committed to continuous learning, always open to new ideas and perspectives. 
+          Working with people is something I enjoy, as I find motivation in learning from and interacting with others.
         </div>
         <div class="col d-none d-md-block">
           <img class="pic-about animate__animated animate__fadeInRightBig"
@@ -37,16 +35,12 @@
           <img class="pic-about animate__animated animate__fadeInRightBig"
             src="https://i.postimg.cc/vZywbJCR/E61-D7-A28-EA51-497-B-9-E13-9-F7-D3861-DB07.jpg" alt="Logo">
         </div>
-        <div class="col col-text animate__animated animate__fadeInLeftBig">
+        <div class=" footpara col col-text animate__animated animate__fadeInLeftBig">
           <h3><ins>Football</ins></h3>
-          From the first time that I can remember when I was a child, football has been a passion that's grown into life.
-          I recall those early days when I'd kick around a worn-out ball in the backyard, pretending I was a superstar on
-          the world stage.
-          As I grew, my love for the game only grew stronger and stronger.
-          Though I never pursued football professionally, it remains a cherished hobby that has brought me countless
-          moments of joy.
-          It's a source of pure excitement and an escape from the everyday grind. Whether it's playing with friends at the
-          local park or watching the biggest matches on TV, football has a place in my heart.
+          Football has been a lifelong passion for me since childhood.
+          I fondly remember kicking around a worn-out ball in the backyard, pretending to be a superstar on the world stage. 
+          As I grew, my love for the game strengthened. While I never pursued it professionally, football remains a cherished hobby, offering moments of joy and excitement, serving as an escape from the everyday grind.
+          Whether playing with friends or watching major matches on TV, football holds a special place in my heart.
         </div>
       </div>
     </div>
@@ -54,15 +48,12 @@
       <div class="row align-items-start">
         <div class=" col-text animate__animated animate__fadeInLeftBig">
           <h3><ins>Painting</ins></h3>
-          I have passion for painting art which runs deep, and it's a side hobby that helps me relax and puts me in a safe
-          place.
-          From the moment I pick up a brush and touch it to a canvas, I enter a world of endless creativity and
-          self-expression, and this is the mindset I have when doing anything I do.
-          The act of painting allows me to translate my thoughts, emotions, and the beauty of the world around me onto a
-          blank surface.
-          While it may be a side hobby, it's anything but secondary in my heart. Every piece I create is a labor of love,
-          a personal journey that speaks to my concealed feelings and observations.
-          And below are a few of my artworks that I have completed.
+          My deep passion for painting serves as a relaxing and safe side hobby. 
+          When I pick up a brush, I enter a world of endless creativity and self-expression, applying this mindset to everything I do. 
+          Painting allows me to translate my thoughts, emotions, and the beauty of the world onto a blank canvas. 
+          Despite being a side hobby, it holds a primary place in my heart. 
+          Each artwork is a labor of love, representing a personal journey that reflects my concealed feelings and observations. 
+          Below are a few completed artworks.
 
           <br />
           <br />
@@ -95,5 +86,9 @@
 .headedu {
   /* padding: 3rem; */
   font-size: 5rem;
+}
+.col{
+  /* padding-top: ; */
+  font-size: 28px;
 }
 </style>

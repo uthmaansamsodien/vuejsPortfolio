@@ -53,12 +53,13 @@
           <p><b>Grassy Park, Cape Town 7941</b></p><br />
           <h5><ins>
 
-            </ins></h5>
+            </ins>
+          </h5>
           <p><b></b></p>
           <h5><ins>Links to connect:</ins></h5>
 
           <br />
-          <a href="https://codepen.io/uthmaansamsodien" target="_blank" class="fa-brands fa-codepen"></a>
+          <!-- <a href="https://codepen.io/uthmaansamsodien" target="_blank" class="fa-brands fa-codepen"></a> -->
           <a href="https://www.instagram.com/uthmaansamsodienn" target="_blank" class="bi bi-instagram"></a> 
           <a href="https://www.linkedin.com/in/uthmaan-samsodien-416525276/" target="_blank" class="bi bi-linkedin"></a>
           <a href="https://github.com/uthmaansamsodien" target="_blank" class="bi bi-github"></a>
@@ -117,5 +118,11 @@ img {
 .headedu {
   /* padding: 3rem; */
   font-size: 5rem;
+}
+.btnproject{
+  margin: 1rem !important;
+}
+.col{
+  font-size: 17px;
 }
 </style>
