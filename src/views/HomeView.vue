@@ -25,7 +25,7 @@
           <div>
             <router-link to="/contact">
               <button class="btnproject animate__animated animate__fadeInUpBig">
-                Lets connect
+                Let's connect
               </button>
             </router-link>
             <a href="/files/CV of Uthmaan Samsodien.pdf" target="_blank">
