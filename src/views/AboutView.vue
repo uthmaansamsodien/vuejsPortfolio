@@ -78,7 +78,7 @@
   </div>
 </template>
 
-<style>
+<style scoped>
 .col-text {
   text-align: justify;
 }
