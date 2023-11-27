@@ -28,7 +28,7 @@
                 Let's connect
               </button>
             </router-link>
-            <a href="/files/CV of Uthmaan Samsodien.pdf" target="_blank">
+            <a href="/files/Resume of Uthmaan Samsodien.pdf" target="_blank">
               <button class="btnproject animate__animated animate__fadeInUpBig"><i></i>View my CV</button>
             </a>
 

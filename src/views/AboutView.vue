@@ -3,12 +3,8 @@
     <br />
     <br />
     <br />
-    <h1 class="animate__animated animate__fadeInDownBig"><ins>About Me</ins></h1>
-    <router-link to="/resume">
-      <button class="btnproject animate__animated animate__fadeInUpBig">
-        View my resume
-      </button>
-    </router-link>
+    <h1 class=" homehead animate__animated animate__fadeInDownBig"><ins>Crafting a Creative Journey</ins></h1>
+    
     <div class="container ">
 
       <div class="row align-items-start">
@@ -20,6 +16,12 @@
           I have a keen interest in technology and gadgets, stemming from a young age. 
           Driven by my passion, I am committed to continuous learning, always open to new ideas and perspectives. 
           Working with people is something I enjoy, as I find motivation in learning from and interacting with others.
+          <!-- <br> -->
+          <!-- <router-link to="/resume">
+        <button class="btnproject animate__animated animate__fadeInUpBig">
+          View my resume
+        </button>
+      </router-link> -->
         </div>
         <div class="col d-none d-md-block">
           <img class="pic-about animate__animated animate__fadeInRightBig"

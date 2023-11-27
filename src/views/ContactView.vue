@@ -51,9 +51,7 @@
           <br />
           <h5><ins>Loacation:</ins></h5>
           <p><b>Grassy Park, Cape Town 7941</b></p><br />
-          <h5><ins>
-
-            </ins>
+          <h5>
           </h5>
           <p><b></b></p>
           <h5><ins>Links to connect:</ins></h5>
@@ -65,7 +63,7 @@
           <a href="https://github.com/uthmaansamsodien" target="_blank" class="bi bi-github"></a>
 
         </div>
-
+        <br>
       </div>
     </div>
     <!-- <div>
@@ -96,7 +94,10 @@ img {
   margin: .5rem;
   font-size: 2rem;
   color:#14004f;
-
+  
+}
+.bi:hover{
+  transform: scale(1.1) !important;
 }
 
 .word {
@@ -125,4 +126,5 @@ img {
 .col{
   font-size: 17px;
 }
+
 </style>
