@@ -1,6 +1,6 @@
 <template>
     <div class="home">
-        <h1 class=" headedu headskill animate__animated animate__fadeInDownBig"><ins>Testimonials</ins></h1>
+        <h1 class=" headedu headskill" data-aos="fade-down" ><ins>Testimonials</ins></h1>
         <PortfolioCard />
         <br>
         <br>

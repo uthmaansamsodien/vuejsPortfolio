@@ -12,7 +12,7 @@ Powered by Uthmaan Samsodien<br>
     <a href="https://github.com/uthmaansamsodien" target="_blank" class="bi bi-github"></a>
 </p>
 <router-link class="navbar-brand" id="footpic" to="/" >
-    <img class="logo" src="https://i.postimg.cc/90Tp9JFq/Untitled-design-1-removebg-preview.png" alt="Logo">
+    <img class="logo" src="https://i.ibb.co/4ZHPB54/Untitled-design-1-removebg-preview.png" alt="Untitled-design-1-removebg-preview">
 </router-link>  
 </footer>
 

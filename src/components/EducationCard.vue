@@ -1,6 +1,6 @@
 <template>
     <div class="container">
-        <div class=" educard row justify-content-center gap-5 animate__animated animate__slideInUp">
+        <div class=" educard row justify-content-center gap-5" data-aos="fade-up">
             <div class="card p-0" v-for="learn in Education" style="width: 15rem;" :key="learn.id">
                 <img :src="learn.img" id="img" class="card-img-top" :alt="learn.name" loading="lazy">
                 <div class="card-body">

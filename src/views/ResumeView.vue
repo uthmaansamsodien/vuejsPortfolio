@@ -9,7 +9,7 @@
         <br />
         <SkillsCard />
         <br>
-        <h1 class="headedu animate__animated animate__fadeInDownBig"><ins>Education</ins></h1>
+        <h1 class="headedu" data-aos="fade-down" ><ins>Education</ins></h1>
         <br> <br>
         <EducationCard />
         <br>

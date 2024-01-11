@@ -9,8 +9,7 @@
       <div class="row">
 
         <div class="col">
-          <img class="photo animate__animated animate__fadeInLeftBig"
-            src="https://i.postimg.cc/vTv25jC8/IMG-6957-sqaure.jpg" alt="" />
+          <img class="photo animate__animated animate__fadeInLeftBig" img src="https://i.ibb.co/235712L/IMG-6957-sqaure.jpg" alt="">
           <br>
         </div>
         <div class="col" id="homeDetails">

@@ -5,7 +5,7 @@
     <br />
     <h1 class=" homehead animate__animated animate__fadeInDownBig"><ins>Crafting a Creative Journey</ins></h1>
     
-    <div class="container ">
+    <div class="container">
 
       <div class="row align-items-start">
         <div class="col col-text animate__animated animate__fadeInLeftBig">
@@ -25,19 +25,19 @@
         </div>
         <div class="col d-none d-md-block">
           <img class="pic-about animate__animated animate__fadeInRightBig"
-            src="https://i.postimg.cc/wvfyY12f/IMG-1346.jpg" alt="Logo">
+          img src="https://i.ibb.co/PYRp5JV/IMG-0387-1.jpg" alt="IMG-0387-1" border="0">
         </div>
       </div>
     </div>
-    <h1 class="pas"><ins>My Passions</ins></h1>
+    <h1 class="pas" data-aos="fade-down"><ins>My Passions</ins></h1>
 
     <div class="container">
       <div class="row align-items-start">
         <div class="col d-none d-md-block">
-          <img class="pic-about animate__animated animate__fadeInRightBig"
-            src="https://i.postimg.cc/vZywbJCR/E61-D7-A28-EA51-497-B-9-E13-9-F7-D3861-DB07.jpg" alt="Logo">
+          <img class="pic-about" data-aos="fade-right"
+          img src="https://i.ibb.co/XbFyYWj/E61-D7-A28-EA51-497-B-9-E13-9-F7-D3861-DB07.jpg" alt="E61-D7-A28-EA51-497-B-9-E13-9-F7-D3861-DB07" border="0">
         </div>
-        <div class=" footpara col col-text animate__animated animate__fadeInLeftBig">
+        <div class=" footpara col col-text" data-aos="fade-left">
           <h3><ins>Football</ins></h3>
           Football has been a lifelong passion for me since childhood.
           I fondly remember kicking around a worn-out ball in the backyard, pretending to be a superstar on the world stage. 
@@ -48,7 +48,7 @@
     </div>
     <div class="container ">
       <div class="row align-items-start">
-        <div class=" col-text animate__animated animate__fadeInLeftBig">
+        <div class=" col-text" data-aos="fade-up">
           <h3><ins>Painting</ins></h3>
           My deep passion for painting serves as a relaxing and safe side hobby. 
           When I pick up a brush, I enter a world of endless creativity and self-expression, applying this mindset to everything I do. 
@@ -63,14 +63,14 @@
         <br />
         <br />
         <div class="col d-none d-md-block">
-          <img class=" art animate__animated animate__fadeInRightBig" src="https://i.postimg.cc/HWNfn58H/GCSD6588.jpg"
-            alt="Logo">
-          <img class=" art animate__animated animate__fadeInRightBig" src="https://i.postimg.cc/SssvNNyJ/IMG-5152.jpg"
-            alt="Logo">
-          <img class=" art animate__animated animate__fadeInRightBig" src="https://i.postimg.cc/59Q7PQzt/IMG-0912.jpg"
-            alt="Logo">
-          <img class=" art animate__animated animate__fadeInRightBig" src="https://i.postimg.cc/jjC1RSqC/IMG-E3223.jpg"
-            alt="Logo">
+          <img class=" art" data-aos="fade-right" img src="https://i.ibb.co/ph4XF1w/IMG-0912.jpg" alt="IMG-0912" border="0">
+
+          <img class=" art" data-aos="fade-right" img src="https://i.ibb.co/zxYNX0b/IMG-5152.jpg" alt="IMG-5152" border="0">
+
+          <img class=" art" data-aos="fade-left" img src="https://i.ibb.co/tJNPRHN/IMG-3223.jpg" alt="IMG-3223" border="0">
+
+          <img class=" art" data-aos="fade-left" img src="https://i.ibb.co/K7VDg5L/f8e097d9-c0ea-4a36-ba2c-b9ccccfc45fe.jpg" alt="f8e097d9-c0ea-4a36-ba2c-b9ccccfc45fe" border="0">
+
         </div>
 
       </div>

@@ -3,7 +3,7 @@
     <br />
     <br />
 
-    <h1 class=" headedu animate__animated animate__fadeInDownBig"><ins>My work</ins></h1>
+    <h1 class=" headedu" data-aos="fade-up"><ins>My work</ins></h1>
     <br /><br />
     <ProjectCard />
     <br />
