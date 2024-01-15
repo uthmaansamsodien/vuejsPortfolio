@@ -1,6 +1,6 @@
 <template>
     <div class="container ">
-        <div class="row justify-content-center gap-5 animate__animated animate__slideInUp">
+        <div class="row justify-content-center gap-5 animate__animated animate__slideInUp" data-aos="fade-up">
             <div class="card p-0" v-for="beings in testimonials" style="width: 15rem;" :key="beings.id">
                 <img :src="beings.img" id="img" class="card-img-top" :alt="beings.name" loading="lazy">
                 <div class="card-body">
