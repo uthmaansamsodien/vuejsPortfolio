@@ -96,6 +96,8 @@
   #iconskills{ 
     font-size: 5rem;
     color:#14004f;
+    color: red;
+    background-color: black;
   }
 
   .headskill{ 
@@ -126,7 +128,7 @@
   transform: scale(1.1) !important;
 }
 h1{
-  font-size: 4rem;
+  font-size: 3rem;
 }
 @media only screen and (max-width: 800px){
   .pas{

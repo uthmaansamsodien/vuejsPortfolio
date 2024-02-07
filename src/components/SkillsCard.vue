@@ -1,14 +1,15 @@
 <template>
     <div class="container">
-        <div class="row justify-content-center gap-5 animate__animated animate__slideInUp">
-            <div class="card p-0" v-for="skills in Skills" style="width: 15rem;" :key="skills.id">
-                <i id="iconskills" :class="skills.icon"></i>
+        <div class="row justify-content-center gap-5 animate__animated animate__slideInUp" >
+            <div class="card" style="width: 9rem; " v-for="skill in skills" :key="skill.ID">
+                <img :src="skill.icon" :alt="skills.headingone">
+
                 <div class="card-body">
                     <h4 class="card-head">
-                        {{ skills.name }}
+                        {{ skill.name }}
                     </h4>
                     <h5 class="card-head">
-                        {{ skills.level }}
+                        {{ skill.level }} 
                     </h5>
                 </div>
             </div>
@@ -19,19 +20,26 @@
 <script>
 export default {
     computed: {
-        Skills() {
+        skills() {
             return this.$store.state.Skills
         }
     },
-    mounted() {
-        this.$store.dispatch('fetchSkills')
+    async mounted() {
+        await this.$store.dispatch('fetchSkills')
+        this.skills = JSON.parse(JSON.stringify(this.$store.state.Skills));
     }
 }
 </script>
 
 <style scoped>
-.card {
+.card{
     background-color: transparent !important;
+    /* font-size: 2px !important; */
+    width: 200;
+    height: 360;
     border: 0;
 }
+.card-head{
+     font-size:16.71px
+     }
 </style>

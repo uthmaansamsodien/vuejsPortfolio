@@ -33,6 +33,7 @@ async fetchSkills(context) {
 try {
 let res = await fetch(dataURL);
 let { Skills } = await res.json();
+console.log(Skills)
 context.commit('setSkills', Skills);
 }
 catch (e) {
@@ -43,6 +44,7 @@ async fetchEducation(context) {
 try {
 let res = await fetch(dataURL);
 let { Education } = await res.json();
+console.log(Education)
 context.commit('setEducation', Education);
 }
 catch (e) {
