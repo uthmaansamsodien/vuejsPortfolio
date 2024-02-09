@@ -9,7 +9,7 @@
 
       <div class="row align-items-start">
         <div class="col col-text animate__animated animate__fadeInLeftBig">
-          I'm Uthmaan Samsodien, a 21-year-old  intern at Life Choices in Cape Town, South Africa. 
+          I'm Uthmaan Samsodien, a 22-year-old  intern at Life Choices in Cape Town, South Africa. 
           I recently graduated from South Peninsula High.
           My passion lies in the Web-Development industry, and I'm actively seeking job opportunities in that field. 
           Alongside my academic pursuits, I am a sports enthusiast, always striving to be active. 
