@@ -23,7 +23,7 @@
               <router-link class="nav-link bi-rocket-takeoff" to="/projects"> Projects</router-link>
             </li>
             <li class="nav-item">
-              <router-link class="nav-link bi-file-earmark" to="/testimonials"> Testimonials</router-link>
+              <router-link class="nav-link bi-file-earmark" to="/testimonials"> Referrals</router-link>
             </li>
             <li class="nav-item">
               <router-link class="nav-link bi-telephone-fill" to="/contact"> Contact</router-link>
