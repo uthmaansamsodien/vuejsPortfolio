@@ -9,13 +9,13 @@
 
       <div class="row align-items-start">
         <div class="col col-text animate__animated animate__fadeInLeftBig">
-          I'm Uthmaan Samsodien, a 22-year-old  intern at Life Choices in Cape Town, South Africa. 
-          I recently graduated from South Peninsula High.
+          I'm Uthmaan Samsodien, a 22-year-old  member of the Global Employment Challenge in Cape Town, South Africa. 
+          I recently graduated from Life Choices Academy (2023).
           My passion lies in the Web-Development industry, and I'm actively seeking job opportunities in that field. 
           Alongside my academic pursuits, I am a sports enthusiast, always striving to be active. 
           I have a keen interest in technology and gadgets, stemming from a young age. 
           Driven by my passion, I am committed to continuous learning, always open to new ideas and perspectives. 
-          Working with people is something I enjoy, as I find motivation in learning from and interacting with others.
+          Working with people worldwide, as I find motivation in learning from and interacting with others.
           <!-- <br> -->
           <!-- <router-link to="/resume">
         <button class="btnproject animate__animated animate__fadeInUpBig">

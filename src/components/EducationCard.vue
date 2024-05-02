@@ -44,6 +44,9 @@ export default {
     background-color: transparent !important;
     border: 0;
 }
+#img{
+    height: 16rem;
+}
 
 .educard {
     margin: 2rem;

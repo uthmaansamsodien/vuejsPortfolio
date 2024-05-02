@@ -9,17 +9,17 @@
       <div class="row">
 
         <div class="col">
-          <img class="photo animate__animated animate__fadeInLeftBig" img src="https://i.ibb.co/235712L/IMG-6957-sqaure.jpg" alt="">
+          <img class="photo animate__animated animate__fadeInLeftBig" img src="https://i.ibb.co/hmcpvtv/Untitled-design-9.png" alt="">
           <br>
         </div>
         <div class="col" id="homeDetails">
           <!-- <div class="row text animate__animated animate__fadeInLeftBig">
           </div > -->
           <h1 class="animate__animated animate__fadeInRightBig">
-            Hey, I'm Uthmaan Samsodien.
+            Hey, I'm Uthmaan Samsodien. 
           </h1>
           <h5 class="animate__animated animate__fadeInRightBig 0.1s">
-            An aspiring front-end developer.
+            A Front-End Web Developer.
           </h5>
           <div>
             <router-link to="/contact">
