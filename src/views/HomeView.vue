@@ -9,7 +9,7 @@
       <div class="row">
 
         <div class="col">
-          <img class="photo animate__animated animate__fadeInLeftBig" img src="https://i.ibb.co/hmcpvtv/Untitled-design-9.png" alt="">
+          <img class="photo animate__animated animate__fadeInLeftBig" img src="https://i.postimg.cc/HWSRR0QL/Untitled-design-9.png" alt="logo">
           <br>
         </div>
         <div class="col" id="homeDetails">
