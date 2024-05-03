@@ -44,12 +44,12 @@ color: antiquewhite;
 /* .card-img-top{
     aspect-ratio: 1/0;
 } */
-.card{
+.card {
     background-color: transparent !important;
     border: 0;
     margin: 2rem;
-    box-shadow:  8px 8px 8px 1px #14004f;
-    text-align:left;
+    box-shadow: 8px 8px 8px 1px #14004f;
+    text-align: left;
     width: 19rem !important;
 }
 

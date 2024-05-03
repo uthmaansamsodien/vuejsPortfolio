@@ -7,16 +7,21 @@
 
     <div class="container text-center">
       <div class="row">
-
         <div class="col">
-          <img class="photo animate__animated animate__fadeInLeftBig" img src="https://i.postimg.cc/HWSRR0QL/Untitled-design-9.png" alt="logo">
+          <br />
+          <br />
+          <br />
+          <br />
+
+          <img class="photo animate__animated animate__fadeInLeftBig" img
+            src="https://i.postimg.cc/HWSRR0QL/Untitled-design-9.png" alt="logo">
           <br>
         </div>
         <div class="col" id="homeDetails">
           <!-- <div class="row text animate__animated animate__fadeInLeftBig">
           </div > -->
           <h1 class="animate__animated animate__fadeInRightBig">
-            Hey, I'm Uthmaan Samsodien. 
+            Hey, I'm Uthmaan Samsodien.
           </h1>
           <h5 class="animate__animated animate__fadeInRightBig 0.1s">
             A Front-End Web Developer.
@@ -30,7 +35,6 @@
             <a href="/files/Resume of Uthmaan Samsodien.pdf" target="_blank">
               <button class="btnproject animate__animated animate__fadeInUpBig"><i></i>View my CV</button>
             </a>
-
           </div>
         </div>
       </div>
@@ -114,4 +118,5 @@ h1 {
 
 .btnproject:hover {
   transform: scale(1.1) !important;
-}</style>
+}
+</style>

@@ -9,7 +9,8 @@
     <div class="row align-items-center">
       <div class="col">
 
-        <form class="p-5 animate__animated animate__fadeInLeftBig" action="https://formspree.io/f/xqkonyvj" method="POST">
+        <form class="p-5 animate__animated animate__fadeInLeftBig" action="https://formspree.io/f/xqkonyvj"
+          method="POST">
           <div>
             <label for="exampleFormControlInput1" class="form-label">First Name:</label>
             <input name="firstname" type="text" class="form-control" id="exampleFormControlInput1"
@@ -19,14 +20,15 @@
           </div>
           <div>
             <label for="exampleFormControlInput1" class="form-label">Surname:</label>
-            <input name="surname" type="text" class="form-control" id="exampleFormControlInput1" placeholder="(required)"
-              required oninvalid="this.setCustomValidity('Please fill in the missing information')"
+            <input name="surname" type="text" class="form-control" id="exampleFormControlInput1"
+              placeholder="(required)" required
+              oninvalid="this.setCustomValidity('Please fill in the missing information')"
               oninput="this.setCustomValidity('')">
           </div>
           <div>
             <label for="exampleFormControlInput1" class="form-label">Email Address:</label>
-            <input name="email" type="email" class="form-control" id="exampleFormControlInput1" placeholder="(required)" r
-              required oninvalid="this.setCustomValidity('Please fill in the missing information')"
+            <input name="email" type="email" class="form-control" id="exampleFormControlInput1" placeholder="(required)"
+              r required oninvalid="this.setCustomValidity('Please fill in the missing information')"
               oninput="this.setCustomValidity('')">
           </div>
           <label for="exampleFormControlTextarea1" class="form-label">Comment or Message:</label>
@@ -58,8 +60,10 @@
 
           <br />
           <!-- <a href="https://codepen.io/uthmaansamsodien" target="_blank" class="fa-brands fa-codepen"></a> -->
-          <a href="https://www.instagram.com/uthmaansamsodienn" target="_blank" class="bi bi-instagram" data-aos="fade-up"></a> 
-          <a href="https://www.linkedin.com/in/uthmaan-samsodien-416525276/" target="_blank" class="bi bi-linkedin" data-aos="fade-up"></a>
+          <a href="https://www.instagram.com/uthmaansamsodienn" target="_blank" class="bi bi-instagram"
+            data-aos="fade-up"></a>
+          <a href="https://www.linkedin.com/in/uthmaan-samsodien-416525276/" target="_blank" class="bi bi-linkedin"
+            data-aos="fade-up"></a>
           <a href="https://github.com/uthmaansamsodien" target="_blank" class="bi bi-github" data-aos="fade-up"></a>
 
         </div>
@@ -83,20 +87,23 @@ img {
   height: 30rem;
   margin-bottom: rem;
 }
-.fa-brands{
+
+.fa-brands {
   margin: .5rem;
   font-size: 2rem;
   text-decoration: none;
-  color:#14004f;
+  color: #14004f;
 
 }
-.bi{
+
+.bi {
   margin: .5rem;
   font-size: 2rem;
-  color:#14004f;
-  
+  color: #14004f;
+
 }
-.bi:hover{
+
+.bi:hover {
   transform: scale(1.1) !important;
 }
 
@@ -120,11 +127,12 @@ img {
   /* padding: 3rem; */
   font-size: 5rem;
 }
-.btnproject{
+
+.btnproject {
   margin: 1rem !important;
 }
-.col{
+
+.col {
   font-size: 17px;
 }
-
 </style>

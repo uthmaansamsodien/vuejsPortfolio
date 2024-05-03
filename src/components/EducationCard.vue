@@ -44,7 +44,8 @@ export default {
     background-color: transparent !important;
     border: 0;
 }
-#img{
+
+#img {
     height: 16rem;
 }
 
