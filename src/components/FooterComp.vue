@@ -4,7 +4,7 @@
         <p class="info">
             <br>
             Powered by Uthmaan Samsodien<br>
-            &copy;Copright 2023 <br>
+            &copy;Copright 2024 <br>
             <!-- <a href="https://codepen.io/uthmaansamsodien" target="_blank" class="fa-brands fa-codepen"></a>  -->
             <!-- <br/> -->
             <a href="https://www.instagram.com/uthmaansamsodienn" target="_blank" class="bi bi-instagram"></a>
