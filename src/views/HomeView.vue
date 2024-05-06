@@ -32,7 +32,7 @@
                 Let's connect
               </button>
             </router-link>
-            <a href="/public/files/Updated Resume of Uthmaan Samsodien (1).pdf" target="_blank">
+            <a href="/files/Updated Resume of Uthmaan Samsodien (1).pdf" target="_blank">
               <button class="btnproject animate__animated animate__fadeInUpBig"><i></i>View my CV</button>
             </a>
           </div>
