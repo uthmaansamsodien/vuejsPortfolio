@@ -2,14 +2,14 @@
   <div>
     <nav class="navbar navbar-expand-lg">
       <div class="container-fluid">
-        <router-link class="navbar-brand" to="/"><img class="logo"
-            src="https://i.ibb.co/4ZHPB54/Untitled-design-1-removebg-preview.png"
+        <router-link class="navbar-brand" to="/"><img class="logo animate__animated animate__fadeInLeftBig"
+            src="https://i.postimg.cc/xC0C7yfp/output-onlinepngtools.png"
             alt="Untitled-design-1-removebg-preview"></router-link>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
           aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span><i class="bi bi-list"></i></span>
         </button>
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <div class="collapse navbar-collapse animate__animated animate__fadeInRightBig" id="navbarSupportedContent">
           <ul class="navbar-nav mx-auto mb-2 mb-lg-0">
             <li class="nav-item">
               <router-link class="nav-link bi-house" to="/"> Home</router-link>
@@ -45,11 +45,13 @@ export default {
 <style scoped>
 .nav-link {
   color: white;
+  font-size: 17.5px; /* Adjust size as needed */
+  font-weight: medium;
 
 }
 
 .nav-link:hover {
-  color: #ffeca8;
+  color: #1c1c1c;
   transform: scale(1.2);
 
 }
@@ -59,13 +61,13 @@ export default {
 }
 
 .logo {
-  height: 5rem;
-  width: 5rem;
+  height: 7rem;
+  width: 7rem;
 }
 
 .navbar {
-  background-color: #14004f;
-  padding: 1.1rem;
+  background-color: #666666;
+  padding: 0rem;
 }
 
 .body {

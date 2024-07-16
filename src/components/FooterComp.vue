@@ -4,7 +4,7 @@
         <p class="info">
             <br>
             Powered by Uthmaan Samsodien<br>
-            &copy;Copright 2024 <br>
+            &copy;Copright 2025 <br>
             <!-- <a href="https://codepen.io/uthmaansamsodien" target="_blank" class="fa-brands fa-codepen"></a>  -->
             <!-- <br/> -->
             <a href="https://www.instagram.com/samsodienuthmaan" target="_blank" class="bi bi-instagram"></a>
@@ -13,7 +13,7 @@
             <a href="https://github.com/uthmaansamsodien" target="_blank" class="bi bi-github"></a>
         </p>
         <router-link class="navbar-brand" id="footpic" to="/">
-            <img class="logo" src="https://i.ibb.co/4ZHPB54/Untitled-design-1-removebg-preview.png"
+            <img class="logo" src="https://i.postimg.cc/xC0C7yfp/output-onlinepngtools.png"
                 alt="Untitled-design-1-removebg-preview">
         </router-link>
     </footer>
@@ -28,7 +28,7 @@ export default {
 
 <style scoped>
 footer {
-    background-color: #14004f;
+    background-color: #666666;
     position: relative;
     width: 100%;
     bottom: 0;
@@ -50,8 +50,9 @@ footer {
 }
 
 .logo {
-    height: 2rem;
-    margin-bottom: 1rem;
+    height: 3rem;
+    /* margin-bottom: 1rem;     */
+    margin-top: -1rem;
 }
 
 .logo:hover {

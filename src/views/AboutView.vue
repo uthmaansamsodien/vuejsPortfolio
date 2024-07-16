@@ -9,13 +9,11 @@
 
       <div class="row align-items-start">
         <div class="col col-text animate__animated animate__fadeInLeftBig">
-          I'm Uthmaan Samsodien, a 22-year-old member of the Global Employment Challenge in Cape Town, South Africa.
-          I recently graduated from Life Choices Academy (2023).
-          My passion lies in the Web-Development industry, and I'm actively seeking job opportunities in that field.
-          Alongside my academic pursuits, I am a sports enthusiast, always striving to be active.
-          I have a keen interest in technology and gadgets, stemming from a young age.
-          Driven by my passion, I am committed to continuous learning, always open to new ideas and perspectives.
-          Working with people worldwide, as I find motivation in learning from and interacting with others.
+          I'm Uthmaan Samsodien, a 23-year-old Web Developer and a member of the Global Employment Challenge in Cape Town. <br/>
+          I graduated from Life Choices Academy in 2023 and am passionate about web development, technology, and continuous learning. <br/>
+          I thrive on collaboration, enjoy working with people worldwide, and stay active as a sports enthusiast. <br/>
+          I'm eager to grow, innovate, and explore new opportunities in the tech industry.
+
           <!-- <br> -->
           <!-- <router-link to="/resume">
         <button class="btnproject animate__animated animate__fadeInUpBig">
@@ -40,12 +38,10 @@
         </div>
         <div class=" footpara col col-text" data-aos="fade-left">
           <h3><ins>Football</ins></h3>
-          Football has been a lifelong passion for me since childhood.
-          I fondly remember kicking around a worn-out ball in the backyard, pretending to be a superstar on the world
-          stage.
-          As I grew, my love for the game strengthened. While I never pursued it professionally, football remains a
-          cherished hobby, offering moments of joy and excitement, serving as an escape from the everyday grind.
-          Whether playing with friends or watching major matches on TV, football holds a special place in my heart.
+          Football has been my passion since childhood. I remember kicking a worn-out ball in the backyard,<br/> dreaming of being a superstar.
+           Though I never pursued it professionally, it remains a cherished hobby—an escape that brings joy and excitement.<br/>
+            Whether playing with friends or watching big matches,
+            <br/>football will always have a special place in my heart.
         </div>
       </div>
     </div>
@@ -53,14 +49,8 @@
       <div class="row align-items-start">
         <div class=" col-text" data-aos="fade-up">
           <h3><ins>Painting</ins></h3>
-          My deep passion for painting serves as a relaxing and safe side hobby.
-          When I pick up a brush, I enter a world of endless creativity and self-expression, applying this mindset to
-          everything I do.
-          Painting allows me to translate my thoughts, emotions, and the beauty of the world onto a blank canvas.
-          Despite being a side hobby, it holds a primary place in my heart.
-          Each artwork is a labor of love, representing a personal journey that reflects my concealed feelings and
-          observations.
-          Below are a few completed artworks.
+          Painting is my creative escape, offering relaxation and self-expression. With each brushstroke, I bring thoughts, emotions, and the world’s beauty to life on canvas. Though just a hobby, it holds a special place in my heart, with every artwork reflecting my personal journey and hidden emotions. Below are some of my completed pieces.
+
 
           <br />
           <br />
@@ -69,7 +59,7 @@
         <br />
         <div class=" d-none d-md-block">
 
-          <h2>The Beautiful Game</h2>
+          <h2>"The Beautiful Game"</h2>
           <p>"To me it represents how all the chaos around the world can be brought together and be put aside whilst the
             beautiful sport is being played,<br> for the love of the game. Football has always been a part of my life as it
             puts me in my comfort zone."</p>
@@ -88,7 +78,7 @@
 
         <div class=" d-none d-md-block">
 
-          <h2>PEACE</h2>
+          <h2>"PEACE"</h2>
           <p>"To me it represents how everyone around the world can put their differences aside, making the world a
             better place,<br> showing a sign of togetherness and oneness. For me working together and bonding is important
             as you learn new skills and lightens your mood."</p>
@@ -107,7 +97,7 @@
         </div>
         <div class=" d-none d-md-block">
 
-          <h2>Reflection is Important</h2>
+          <h2>"Reflection is Important"</h2>
           <p>"To me it represents my interest in Vincent Van Gogh’s style in how he portrayed his various artworks. The
             bridge represents a guided route which helped to overcome my difficulties I have been through, also showing
             that religion is important referring to the mosque silhouettes under the bridge reflecting into water."</p>
@@ -126,7 +116,7 @@
         </div>
         <div class=" d-none d-md-block">
 
-          <h2>Looks are Deceiving</h2>
+          <h2>"Looks are Deceiving"</h2>
           <p>"To me it shows how looks can be deceiving and that not everyone may seem or be as what they say they are,
             sometimes it’s not always as it appears to you. <br>The man sees a women who shows interests in him, but he does
             not see what is underneath the water, being blinded by what’s in front of him."</p>
@@ -166,6 +156,6 @@
 
 .col {
   /* padding-top: ; */
-  font-size: 28px;
+  font-size: 24px;
 }
 </style>

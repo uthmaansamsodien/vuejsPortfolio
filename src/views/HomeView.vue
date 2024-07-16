@@ -32,8 +32,8 @@
                 Let's connect
               </button>
             </router-link>
-            <a href="/files/Updated Resume of Uthmaan Samsodien.pdf" target="_blank">
-              <button class="btnproject animate__animated animate__fadeInUpBig"><i></i>View my CV</button>
+            <a href="/files/Updated Resume of Uthmaan (Jan 2025).pdf" target="_blank">
+              <button class="btnCV animate__animated animate__fadeInUpBig"><i></i>View my CV</button>
             </a>
           </div>
         </div>
@@ -50,7 +50,7 @@ export default {};
 h1 {
   overflow: hidden;
   /* Ensures the content is not revealed until the animation */
-  border-right: .15em solid #14004f;
+  border-right: .15em solid;
   /* The typwriter cursor */
   white-space: nowrap;
   /* Keeps the content on a single line */
@@ -62,6 +62,8 @@ h1 {
     typing 3.5s steps(40, end),
     blink-caret .75s step-end infinite;
   font-size: 3rem;
+  color: #000000;
+  margin-top: 4rem;
 }
 
 /* The typing effect */
@@ -84,7 +86,7 @@ h1 {
   }
 
   50% {
-    border-color: #14004f;
+    border-color: black;
   }
 }
 
@@ -114,9 +116,16 @@ h1 {
     font-size: 1.11rem;
   }
 
+  /* h5 {
+    color: #000000 !important;
+  } */
+
+
 }
 
 .btnproject:hover {
   transform: scale(1.1) !important;
+  background-color: #6b6b6b;
+  color: #ffff;
 }
 </style>

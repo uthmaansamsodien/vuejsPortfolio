@@ -11,7 +11,7 @@
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     text-align: center;
-    color: #14004f;
+    color: #000000;
     background-color: #FFFDD0 !important;
   }
   
@@ -25,17 +25,17 @@
   }
   
   nav a.router-link-exact-active {
-    color:#ffeca8!important;
+    color:#343434!important;
   }
   .home{
-    background-color: #ffea9e;
+    background-color: #f1f1f1;
     background-attachment: fixed;
     height: 100%;
   }
   .photo{ 
     border-radius: 100%;
     width: 29rem;
-    margin-top: 3rem;
+    margin-top: rem;
     /* padding: 3rem; */
   }
   .photo:hover{
@@ -61,14 +61,31 @@
     padding-bottom:rem;
   }
   .btnproject{ 
-    background-color:#14004f;
-    color: #ffea9e;
+    background-color:#d0d0d0;
+    color: #000000;
     margin: 2rem;
     border-radius: 0.3rem;
     border: none;
     /* font-size: 18/px; */
     padding: 6px;
+    font-size: 19px; /* Adjust size as needed */
+    /* font-weight: bold; */
 
+  }
+  .btnCV {
+    background-color:#666666;
+    color: #ffffff;
+    margin: 2rem;
+    border-radius: 0.3rem;
+    border: none;
+    /* font-size: 18/px; */
+    padding: 6px;
+    font-size: 19px;
+  }
+  .btnCV:hover {
+    transform: scale(1.1) !important;
+    background-color: #4d4d4d;
+    color: #ffff;
   }
 
   .pic-about{ 
@@ -80,8 +97,8 @@
     font-size: 1.5rem;
   }
   .btn-con{ 
-    background-color:#14004f;
-    color: #ffea9e;
+    background-color:#d0d0d0;
+    color: #000000;
     margin: 1rem;
     
   }
@@ -91,7 +108,7 @@
 
   }
    .bi:hover{ 
-    color: #ffea9e;
+    color: #000000;
   }
   #iconskills{ 
     font-size: 5rem;
