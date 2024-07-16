@@ -28,7 +28,7 @@
                     </h1>
                     <br /><br />
                     <div class="col badge animate__animated animate__fadeInLeftBig">
-                        <img src="https://i.ibb.co/Ln3MRg1/Screenshot-2023-10-27-144823-removebg-preview-1.png"
+                        <img src="https://i.postimg.cc/vBWT0Rgp/Redeisgn-Header-2021-1-947x362-removebg-preview.png"
                             loading="lazy" width="196" alt="img" srcset="">
                         <p class=" skilltext">
                             South Peninsula High <br>
@@ -102,8 +102,8 @@
                 </div>
 
                 <div class="col badge animate__animated animate__slideInUp">
-                    <img src="https://i.postimg.cc/RZ401p1c/Screenshot-2024-02-07-105747-removebg-preview.png"
-                        loading="lazy" width="196" alt="img" srcset="">
+                    <img src="https://i.postimg.cc/qqwRd8Gw/introduction-to-cybersecurity-1-removebg-preview.png"
+                        loading="lazy" width="178" alt="img" srcset="">
 
                 </div>
 

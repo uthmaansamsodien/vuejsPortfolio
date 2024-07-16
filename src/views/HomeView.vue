@@ -14,7 +14,7 @@
           <br />
 
           <img class="photo animate__animated animate__fadeInLeftBig" img
-            src="https://i.postimg.cc/HWSRR0QL/Untitled-design-9.png" alt="logo">
+            src="https://i.postimg.cc/4xZYHSry/GEC-Uthmaan-2-Headshot-1.png" alt="logo">
           <br>
         </div>
         <div class="col" id="homeDetails">
@@ -32,7 +32,7 @@
                 Let's connect
               </button>
             </router-link>
-            <a href="/files/Updated Resume of Uthmaan Samsodien (1).pdf" target="_blank">
+            <a href="/files/Updated Resume of Uthmaan Samsodien.pdf" target="_blank">
               <button class="btnproject animate__animated animate__fadeInUpBig"><i></i>View my CV</button>
             </a>
           </div>

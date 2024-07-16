@@ -60,7 +60,7 @@
 
           <br />
           <!-- <a href="https://codepen.io/uthmaansamsodien" target="_blank" class="fa-brands fa-codepen"></a> -->
-          <a href="https://www.instagram.com/uthmaansamsodienn" target="_blank" class="bi bi-instagram"
+          <a href="https://www.instagram.com/samsodienuthmaan" target="_blank" class="bi bi-instagram"
             data-aos="fade-up"></a>
           <a href="https://www.linkedin.com/in/uthmaan-samsodien-416525276/" target="_blank" class="bi bi-linkedin"
             data-aos="fade-up"></a>

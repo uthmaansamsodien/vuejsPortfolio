@@ -71,9 +71,8 @@
 
           <h2>The Beautiful Game</h2>
           <p>"To me it represents how all the chaos around the world can be brought together and be put aside whilst the
-            beautiful sport is being played, for the love of the game. Football has always been a part of life as it
-            puts me in my comfort zone
-            "</p>
+            beautiful sport is being played,<br> for the love of the game. Football has always been a part of my life as it
+            puts me in my comfort zone."</p>
           <img class=" art" data-aos="fade-right" img src="https://i.postimg.cc/BndkZL9H/IMG-8269.jpg" alt="IMG-0912"
             border="0">
 
@@ -85,16 +84,14 @@
 
           <img class=" art" data-aos="fade-left" img src="https://i.ibb.co/ph4XF1w/IMG-0912.jpg"
             alt="f8e097d9-c0ea-4a36-ba2c-b9ccccfc45fe" border="0">
-
         </div>
 
         <div class=" d-none d-md-block">
 
           <h2>PEACE</h2>
-          <p>"To me it represents how everyone around the world can put their differences aside making the world a
-            better place, showing a sign of togetherness and oneness. For me working together and bonding is important
-            as you learn new skills and lightens your mood
-            "</p>
+          <p>"To me it represents how everyone around the world can put their differences aside, making the world a
+            better place,<br> showing a sign of togetherness and oneness. For me working together and bonding is important
+            as you learn new skills and lightens your mood."</p>
           <img class=" art" data-aos="fade-right" img src="https://i.postimg.cc/QtNbjhtc/IMG-1044.jpg" alt="IMG-0912"
             border="0">
 
@@ -113,8 +110,7 @@
           <h2>Reflection is Important</h2>
           <p>"To me it represents my interest in Vincent Van Gogh’s style in how he portrayed his various artworks. The
             bridge represents a guided route which helped to overcome my difficulties I have been through, also showing
-            that religion is important referring to the mosque silhouettes under the bridge reflecting into water
-            "</p>
+            that religion is important referring to the mosque silhouettes under the bridge reflecting into water."</p>
           <img class=" art" data-aos="fade-right" img src="https://i.postimg.cc/GpxK0Hcc/IMG-3418.jpg" alt="IMG-0912"
             border="0">
 
@@ -132,8 +128,8 @@
 
           <h2>Looks are Deceiving</h2>
           <p>"To me it shows how looks can be deceiving and that not everyone may seem or be as what they say they are,
-            sometimes it’s not always as it appears to you. The man sees a women who shows interests in him, but he does
-            not see what is underneath the water, being blinded by what’s in front of him"</p>
+            sometimes it’s not always as it appears to you. <br>The man sees a women who shows interests in him, but he does
+            not see what is underneath the water, being blinded by what’s in front of him."</p>
 
           <img class=" art" data-aos="fade-right" img
             src="https://i.postimg.cc/25DGX4Nc/FB248-FEB-ADC9-49-EA-B17-C-5563-C4-BF4-DB0.jpg" alt="IMG-0912"
