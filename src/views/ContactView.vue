@@ -44,18 +44,18 @@
         <h1 class="con animate__animated animate__fadeInDownBig"><ins>Personal info</ins></h1> <br>
         <div class=" coninfo animate__animated animate__fadeInRightBig">
           <h5><ins>Gmail:</ins></h5>
-          <p><b>samsodienuthmaan@gmail.com</b></p>
+          <p>samsodienuthmaan@gmail.com</p>
 
           <br />
           <h5><ins>Cell:</ins></h5>
-          <p><b>+27 73 476 0972</b></p>
+          <p>+27 73 476 0972</p>
 
           <br />
           <h5><ins>Loacation:</ins></h5>
-          <p><b>Grassy Park, Cape Town 7941</b></p><br />
+          <p>Grassy Park, Cape Town 7941</p><br />
           <h5>
           </h5>
-          <p><b></b></p>
+          <p></p>
           <h5><ins>Links to connect:</ins></h5>
 
           <br />
@@ -99,12 +99,13 @@ img {
 .bi {
   margin: .5rem;
   font-size: 2rem;
-  color: #14004f;
+  color: #525252;
 
 }
 
 .bi:hover {
   transform: scale(1.1) !important;
+  color: black;
 }
 
 .word {
@@ -130,6 +131,11 @@ img {
 
 .btnproject {
   margin: 1rem !important;
+}
+
+.btnproject:hover {
+  color: #ffffff;
+  background-color: darkgray;
 }
 
 .col {

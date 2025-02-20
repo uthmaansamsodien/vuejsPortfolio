@@ -37,6 +37,11 @@ button {
     margin: 5%;
 }
 
+button:hover{
+    color:white;
+    background-color: #a3a3a3;
+}
+
 card-img-top {
     height: 10rem;
     width: 12rem;
@@ -47,6 +52,9 @@ card-img-top {
     border: 0;
     margin: 2rem;
     width: 17rem !important;
+    border: 0;
+    margin: 2rem;
+    box-shadow: 8px 8px 8px 1px #a3a3a3;
     /* box-shadow: 4px 4px 4px 1px #14004f; */
     /* text-align: justify; */
 }
