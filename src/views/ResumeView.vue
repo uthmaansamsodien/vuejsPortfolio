@@ -67,6 +67,14 @@
                             February 2024 - present
                         </p>
                     </div>
+                    <div class="col badge animate__animated animate__fadeInRightBig">
+                        <img src="https://i.postimg.cc/QxnRf0Qj/Add-a-heading.png" loading="lazy" width="196" alt="img"
+                            srcset="">
+                        <p class=" skilltext">
+                            Reach Social Media <br>
+                            August 2024 - present
+                        </p>
+                    </div>
 
                 </div>
             </div>
@@ -161,7 +169,7 @@ export default {
 
 .skilltext{
     font-size: 19px;
-    color: #14004f;
+    color: #000000;
     padding: 1rem;
     font-weight: lighter;
 }

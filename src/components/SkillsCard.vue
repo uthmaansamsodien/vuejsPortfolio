@@ -1,7 +1,7 @@
 <template>
     <div class="container">
         <div class="row justify-content-center gap-5 animate__animated animate__slideInUp">
-            <div class="card" style="width: 9rem; " v-for="skill in skills" :key="skill.ID">
+            <div class="card" style="width: 11.4rem; " v-for="skill in skills" :key="skill.ID">
                 <img :src="skill.icon" :alt="skills.headingone">
 
                 <div class="card-body">
@@ -34,13 +34,14 @@ export default {
 <style scoped>
 .card {
     background-color: transparent !important;
-    /* font-size: 2px !important; */
+    font-size: 10px !important;
     width: 200;
     height: 360;
     border: 0;
+    text-wrap: nowrap;
 }
 
 .card-head {
-    font-size: 16.71px
+    font-size: 20px
 }
 </style>
