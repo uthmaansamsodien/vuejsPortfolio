@@ -17,11 +17,11 @@ const routes = [
     name: 'resume',
     component: () => import('../views/ResumeView.vue')
   },
-  {
-    path: '/projects',
-    name: 'projects',
-    component: () => import('../views/ProjectsView.vue')
-  },
+  // {
+  //   path: '/projects',
+  //   name: 'projects',
+  //   component: () => import('../views/ProjectsView.vue')
+  // },
   {
     path: '/testimonials',
     name: 'testimonials',
