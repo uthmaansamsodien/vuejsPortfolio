@@ -4,23 +4,82 @@
     <br />
     <br />
 
-    <h1 class="animate__animated animate__fadeInDownBig"><ins>Skills</ins></h1>
-    <br />
-    <br />
-    <br />
-
+    <h1 class="animate__animated animate__fadeInDownBig"><ins>Skills </ins></h1><br /><br />
+    <h4 class="animate__animated animate__fadeInDownBig"><ins>Technical and coding</ins></h4>
+    
+    
+    
+    
     <SkillsCard />
-    <br />
+    <br /><br /><br />
+
+    <h4 class="animate__animated animate__fadeInDownBig"><ins>Soft Skills</ins></h4>
+
+
+    <div class="container text-center">
+  <div class="row align-items-center">
+    <div class="col">
+      <p class="softskills">
+
+      
+
+        <h4><b><ins>Organized:</ins></b></h4> Developed a task management system, boosting team productivity.
+
+<br /><br />
+<h4><b><ins>Creativity:</ins></b></h4> Designed an interactive landing page, increasing user engagement.
+
+<br /><br />
+
+<h4><b><ins>Innovation (Designing):</ins></b></h4> Implemented a unique navigation menu, enhancing user experience.
+
+<br /><br />
+
+<h4><b><ins>Critical Thinking:</ins></b></h4> Resolved a complex usability issue, improving site accessibility.
+
+<br /><br />
+
+
+
+</p>
+    </div>
+    <div class="col">
+      <p class="softskills">
+
+      
+
+        <h4><b><ins>Dedication:</ins></b></h4> Completed advanced JavaScript courses to enhance development skills.
+
+<br /><br />
+
+<h4><b><ins>Attention to Detail:</ins></b></h4> Ensured pixel-perfect design implementation, raising client satisfaction.
+
+<br /><br />
+
+<h4><b><ins>Communication:</ins></b></h4> Collaborated with back-end developers to deliver cohesive projects on time.
+
+<br /><br />
+
+<h4><b><ins>Time Management:</ins></b></h4> Managed multiple projects simultaneously, consistently meeting deadlines.
+
+<br /><br />
+
+
+
+</p>
+    </div>
+  </div>
+</div>
+    
+
     <!-- <h1 class="headedu" data-aos="fade-down"><ins>Education</ins></h1>
         <br> <br>
         <EducationCard />
         <br> -->
-    <br />
-    <br />
+
 
     <div class="container text-center">
       <div class="row align-items-start">
-        <div class="col">
+        <div class="">
           <h1
             class="headedu animate__animated animate__fadeInLeftBig"
             data-aos="fade-down"
@@ -277,5 +336,10 @@ export default {
 }
 .bad:hover {
     transform: scale(1.1) !important;
+}
+
+.softskills{
+  padding: 1rem;
+  font-size: 20px;
 }
 </style>
