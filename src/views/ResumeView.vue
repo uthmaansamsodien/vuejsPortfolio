@@ -23,14 +23,14 @@
 
       
 
-        <h4><b><ins>Organized:</ins></b></h4> Developed a task management system, boosting team productivity.
+        <h4><b><ins>Organized:</ins></b></h4> Developed a task logbook system, boosting team productivity.
 
 <br /><br />
 <h4><b><ins>Creativity:</ins></b></h4> Designed an interactive landing page, increasing user engagement.
 
 <br /><br />
 
-<h4><b><ins>Innovation (Designing):</ins></b></h4> Implemented a unique navigation menu, enhancing user experience.
+<h4><b><ins>Innovation:</ins></b></h4> Implemented a unique navigation menu, enhancing user experience.
 
 <br /><br />
 
@@ -47,7 +47,7 @@
 
       
 
-        <h4><b><ins>Dedication:</ins></b></h4> Completed advanced JavaScript courses to enhance development skills.
+        <h4><b><ins>Dedication:</ins></b></h4> Completed JavaScript courses to enhance development skills.
 
 <br /><br />
 
@@ -55,11 +55,11 @@
 
 <br /><br />
 
-<h4><b><ins>Communication:</ins></b></h4> Collaborated with back-end developers to deliver cohesive projects on time.
+<h4><b><ins>Communication:</ins></b></h4> Collaborated with back-end developers to deliver cohesive projects while delegating tasks.
 
 <br /><br />
 
-<h4><b><ins>Time Management:</ins></b></h4> Managed multiple projects simultaneously, consistently meeting deadlines.
+<h4><b><ins>Time Management:</ins></b></h4> Managed multiple projects at once, consistently meeting deadlines.
 
 <br /><br />
 
@@ -317,6 +317,9 @@ export default {
 @media only screen and (max-width: 800px) {
   .headedu {
     font-size: 3rem;
+  }
+  .cisco{
+    padding: 14.2px;
   }
 }
 

@@ -13,9 +13,13 @@
           <br />
           <br />
 
-          <img class="photo animate__animated animate__fadeInLeftBig" img
-            src="https://i.postimg.cc/4xZYHSry/GEC-Uthmaan-2-Headshot-1.png" alt="logo">
-          <br>
+          <img
+            class="photo animate__animated animate__fadeInLeftBig"
+            img
+            src="https://i.postimg.cc/4xZYHSry/GEC-Uthmaan-2-Headshot-1.png"
+            alt="logo"
+          />
+          <br />
         </div>
         <div class="col" id="homeDetails">
           <!-- <div class="row text animate__animated animate__fadeInLeftBig">
@@ -32,8 +36,13 @@
                 Let's connect
               </button>
             </router-link>
-            <a href="/files/Updated Resume of Uthmaan (Jan 2025).pdf" target="_blank">
-              <button class="btnCV animate__animated animate__fadeInUpBig"><i></i>View my CV</button>
+            <a
+              href="/files/Updated Resume of Uthmaan (Jan 2025).pdf"
+              target="_blank"
+            >
+              <button class="btnCV animate__animated animate__fadeInUpBig">
+                <i></i>View my CV
+              </button>
             </a>
           </div>
         </div>
@@ -50,17 +59,15 @@ export default {};
 h1 {
   overflow: hidden;
   /* Ensures the content is not revealed until the animation */
-  border-right: .15em solid;
+  border-right: 0.15em solid;
   /* The typwriter cursor */
   white-space: nowrap;
   /* Keeps the content on a single line */
   margin: 0 auto;
   /* Gives that scrolling effect as the typing happens */
-  letter-spacing: .15em;
+  letter-spacing: 0.15em;
   /* Adjust as needed */
-  animation:
-    typing 3.5s steps(40, end),
-    blink-caret .75s step-end infinite;
+  animation: typing 3.5s steps(40, end), blink-caret 0.75s step-end infinite;
   font-size: 3rem;
   color: #000000;
   margin-top: 4rem;
@@ -69,20 +76,19 @@ h1 {
 /* The typing effect */
 @keyframes typing {
   from {
-    width: 0
+    width: 0;
   }
 
   to {
-    width: 100%
+    width: 100%;
   }
 }
 
 /* The typewriter cursor effect */
 @keyframes blink-caret {
-
   from,
   to {
-    border-color: transparent
+    border-color: transparent;
   }
 
   50% {
@@ -119,8 +125,6 @@ h1 {
   /* h5 {
     color: #000000 !important;
   } */
-
-
 }
 
 .btnproject:hover {
