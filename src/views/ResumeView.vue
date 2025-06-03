@@ -150,14 +150,14 @@
           </div>
           <div class="col badge animate__animated animate__fadeInRightBig">
             <img
-              src="https://i.postimg.cc/QxnRf0Qj/Add-a-heading.png"
+              src="https://i.postimg.cc/ZYNM9hds/NEW-Logo-for-REACH-DIGITAL-GROUP.png"
               loading="lazy"
               width="196"
               alt="img"
               srcset=""
             />
             <p class="skilltext">
-              Reach Social Media <br />
+              Reach Marketing Group <br />
               August 2024 - present
             </p>
           </div>

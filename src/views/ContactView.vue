@@ -43,7 +43,7 @@
       <div class="col cont">
         <h1 class="con animate__animated animate__fadeInDownBig"><ins>Personal info</ins></h1> <br>
         <div class=" coninfo animate__animated animate__fadeInRightBig">
-          <h5><ins>Gmail:</ins></h5>
+          <h5><ins>Gmail:</ins></h5> 
           <p>samsodienuthmaan@gmail.com</p>
 
           <br />
@@ -52,7 +52,7 @@
 
           <br />
           <h5><ins>Loacation:</ins></h5>
-          <p>Grassy Park, Cape Town 7941</p><br />
+          <p>Cape Town, South Africa</p><br />
           <h5>
           </h5>
           <p></p>
