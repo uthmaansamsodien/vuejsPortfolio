@@ -96,7 +96,8 @@
               srcset=""
             />
             <p class="skilltext">
-              South Peninsula High <br />
+              South Peninsula High-<br />
+              (8-12) Bacholar's Pass, <br />
               2018 - 2022
             </p>
           </div>
@@ -109,7 +110,8 @@
               srcset=""
             />
             <p class="skilltext">
-              Life Choices Academy <br />
+              Life Choices Academy- <br />
+              Certifate of Completion, <br />
               April 2023 - September 2023
             </p>
           </div>
@@ -131,7 +133,8 @@
               srcset=""
             />
             <p class="skilltext">
-              LC Studio <br />
+              LC Studio- <br />
+              Intern, <br />
               September 2023 - February 2024
             </p>
           </div>
@@ -144,7 +147,8 @@
               srcset=""
             />
             <p class="skilltext">
-              Global Employment Challenge <br />
+              Global Employment Challenge- <br />
+              Member, <br />
               February 2024 - present
             </p>
           </div>
@@ -157,7 +161,8 @@
               srcset=""
             />
             <p class="skilltext">
-              Reach Marketing Group <br />
+              Reach Marketing Group- <br />
+              Front-end Web Developer, <br />
               August 2024 - present
             </p>
           </div>
